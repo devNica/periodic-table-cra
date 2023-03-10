@@ -4,7 +4,7 @@ const Element = ({ item, index }) => {
     return (
 
         <div
-            className={item.active ? "element active" : "element"} key={index}
+            className={item.active ? "element element-active" : "element"} key={index}
             style={{ backgroundColor: `${item.bgColor}`, color: `${item.txColor}` }}
         >
             <span className="atomic-number">

@@ -9,8 +9,7 @@ const PeriodicTable = () => {
         row.map((elem, index)=>(
            <Element 
                 item={elem} 
-                index={index} 
-                key={index}
+                index={index}
             />
         ))
     ))
