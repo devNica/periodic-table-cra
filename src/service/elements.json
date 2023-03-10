@@ -1,0 +1,4767 @@
+{
+    "rows": [
+        [
+            {
+                "colIndex": 1,
+                "name_es": "Hidrogeno",
+                "name_en": "Hydrogen",
+                "weight": 1.008,
+                "energyLevels": [
+                    1
+                ],
+                "symbol": "H",
+                "atomicNumber": 1,
+                "discovered": "1766-AD",
+                "electronegativity": 2.20,
+                "series_en": "Reactive Nonmetals",
+                "series_es": "No metales",
+                "bgColor": "#f58021",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 14,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 15,
+                        "toK": 20,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 21,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 75
+            },
+            {
+                "colIndex": 18,
+                "name_es": "Helio",
+                "name_en": "Helium",
+                "weight": 4.002602,
+                "energyLevels": [
+                    2
+                ],
+                "symbol": "He",
+                "atomicNumber": 2,
+                "discovered": "1895-AD",
+                "electronegativity": null,
+                "series_en": "Nobles gases",
+                "series_es": "Gases nobles",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 4,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 5,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 23
+            }
+        ],
+        [
+            {
+                "colIndex": 1,
+                "name_es": "Litio",
+                "name_en": "Lithium",
+                "weight": 6.94,
+                "energyLevels": [
+                    2,
+                    1
+                ],
+                "symbol": "Li",
+                "atomicNumber": 3,
+                "discovered": "1817-AD",
+                "electronegativity": 0.98,
+                "series_en": "Alkali Metals",
+                "series_es": "Metales Alcalinos",
+                "bgColor": "#002a4e",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 453,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 454,
+                        "toK": 1614,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1615,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 6.0E-7
+            },
+            {
+                "colIndex": 2,
+                "name_es": "Berilio",
+                "name_en": "Beryllium",
+                "weight": 9.0121831,
+                "energyLevels": [
+                    2,
+                    2
+                ],
+                "symbol": "Be",
+                "atomicNumber": 4,
+                "discovered": "1797-AD",
+                "electronegativity": 1.57,
+                "series_en": "Alkaline Earth Metals",
+                "series_es": "Metales Alcalinoterreos",
+                "bgColor": "#fdba12",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1559,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1560,
+                        "toK": 2742,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2743,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-7
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Boro",
+                "name_en": "Boron",
+                "weight": 10.81,
+                "energyLevels": [
+                    2,
+                    3
+                ],
+                "symbol": "B",
+                "atomicNumber": 5,
+                "discovered": "1808-AD",
+                "electronegativity": 2.04,
+                "series_en": "Metalloids",
+                "series_es": "Metaloides",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2347,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2348,
+                        "toK": 4272,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4273,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-7
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Carbono",
+                "name_en": "Carbon",
+                "weight": 12.011,
+                "energyLevels": [
+                    2,
+                    4
+                ],
+                "symbol": "C",
+                "atomicNumber": 6,
+                "discovered": "3750-BC",
+                "electronegativity": 2.55,
+                "series_en": "Reactive Nonmetals",
+                "series_es": "No metales",
+                "bgColor": "#f58021",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 3914,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 3915,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.5
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Nitrogeno",
+                "name_en": "Nitrogen",
+                "weight": 14.8007,
+                "energyLevels": [
+                    2,
+                    5
+                ],
+                "symbol": "N",
+                "atomicNumber": 7,
+                "discovered": "1772-AD",
+                "electronegativity": 3.04,
+                "series_en": "Reactive Nonmetals",
+                "series_es": "No metales",
+                "bgColor": "#f58021",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 63,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 64,
+                        "toK": 77,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 77,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.1
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Oxigeno",
+                "name_en": "Oxygen",
+                "weight": 15.999,
+                "energyLevels": [
+                    2,
+                    6
+                ],
+                "symbol": "O",
+                "atomicNumber": 8,
+                "discovered": "1774-AD",
+                "electronegativity": 3.44,
+                "series_en": "Reactive Nonmetals",
+                "series_es": "No metales",
+                "bgColor": "#f58021",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 54,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 55,
+                        "toK": 90,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 91,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00
+            },
+            {
+                "colIndex": 17,
+                "name_es": "Fluor",
+                "name_en": "Fluorine",
+                "weight": 18.998403162,
+                "energyLevels": [
+                    2,
+                    7
+                ],
+                "symbol": "F",
+                "atomicNumber": 9,
+                "discovered": "1886-AD",
+                "electronegativity": 3.98,
+                "series_en": "Halogens",
+                "series_es": "Halogenos",
+                "bgColor": "#a2b427",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 53,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 54,
+                        "toK": 85,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 86,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.000040
+            },
+            {
+                "colIndex": 18,
+                "name_es": "Neon",
+                "name_en": "Neon",
+                "weight": 20.1797,
+                "energyLevels": [
+                    2,
+                    8
+                ],
+                "symbol": "Ne",
+                "atomicNumber": 10,
+                "discovered": "1898-AD",
+                "electronegativity": 3.98,
+                "series_en": "Nobles gases",
+                "series_es": "Gases nobles",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 24,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 25,
+                        "toK": 27,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 28,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.13
+            }
+        ],
+        [
+            {
+                "colIndex": 1,
+                "name_es": "Sodio",
+                "name_en": "Sodium",
+                "weight": 22.98976928,
+                "energyLevels": [
+                    2,
+                    8,
+                    1
+                ],
+                "symbol": "Na",
+                "atomicNumber": 11,
+                "discovered": "1807-AD",
+                "electronegativity": 3.98,
+                "series_en": "Alkali Metals",
+                "series_es": "Metales Alcalinos",
+                "bgColor": "#002a4e",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 370,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 371,
+                        "toK": 1155,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1156,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.0020
+            },
+            {
+                "colIndex": 2,
+                "name_es": "Magnesio",
+                "name_en": "MAgenesium",
+                "weight": 24.305,
+                "energyLevels": [
+                    2,
+                    8,
+                    2
+                ],
+                "symbol": "Mg",
+                "atomicNumber": 12,
+                "discovered": "1755-AD",
+                "electronegativity": 1.31,
+                "series_en": "Alkaline Earth Metals",
+                "series_es": "Metales Alcalinoterreos",
+                "bgColor": "#fdba12",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 922,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 923,
+                        "toK": 1362,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1363,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.060
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Aluminio",
+                "name_en": "Aluminium",
+                "weight": 26.9815384,
+                "energyLevels": [
+                    2,
+                    8,
+                    3
+                ],
+                "symbol": "Al",
+                "atomicNumber": 13,
+                "discovered": "1825-AD",
+                "electronegativity": 1.61,
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 933,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 934,
+                        "toK": 2791,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2792,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.0050
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Silicio",
+                "name_en": "Silicon",
+                "weight": 28.085,
+                "energyLevels": [
+                    2,
+                    8,
+                    4
+                ],
+                "symbol": "Si",
+                "atomicNumber": 14,
+                "discovered": "1824-AD",
+                "electronegativity": 1.9,
+                "series_en": "Metalloids",
+                "series_es": "Metaloides",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1686,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1687,
+                        "toK": 3172,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3173,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.070
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Fosforo",
+                "name_en": "Phosphorus",
+                "weight": 30.973761998,
+                "energyLevels": [
+                    2,
+                    8,
+                    5
+                ],
+                "symbol": "P",
+                "atomicNumber": 15,
+                "discovered": "1669-AD",
+                "electronegativity": 2.19,
+                "series_en": "Reactive Nonmetals",
+                "series_es": "No metales",
+                "bgColor": "#f58021",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 317,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 318,
+                        "toK": 553,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 554,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00070
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Azufre",
+                "name_en": "Sulfur",
+                "weight": 32.06,
+                "energyLevels": [
+                    2,
+                    8,
+                    6
+                ],
+                "symbol": "S",
+                "atomicNumber": 16,
+                "discovered": "500-BC",
+                "electronegativity": 2.58,
+                "series_en": "Reactive Nonmetals",
+                "series_es": "No metales",
+                "bgColor": "#f58021",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 388,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 389,
+                        "toK": 717,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 718,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.050
+            },
+            {
+                "colIndex": 17,
+                "name_es": "Cloro",
+                "name_en": "Chlorine",
+                "weight": 35.45,
+                "energyLevels": [
+                    2,
+                    8,
+                    7
+                ],
+                "symbol": "Cl",
+                "atomicNumber": 17,
+                "discovered": "1774-AD",
+                "electronegativity": 3.16,
+                "series_en": "Halogens",
+                "series_es": "Halogenos",
+                "bgColor": "#a2b427",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 171,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 172,
+                        "toK": 239,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 240,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.000100
+            },
+            {
+                "colIndex": 18,
+                "name_es": "Argon",
+                "name_en": "Argon",
+                "weight": 39.948,
+                "energyLevels": [
+                    2,
+                    8,
+                    8
+                ],
+                "symbol": "Ar",
+                "atomicNumber": 18,
+                "discovered": "1894-AD",
+                "electronegativity": null,
+                "series_en": "Nobles gases",
+                "series_es": "Gases nobles",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 83,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 84,
+                        "toK": 87,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 88,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.020
+            }
+        ],
+        [
+            {
+                "colIndex": 1,
+                "name_es": "Potasio",
+                "name_en": "Potasium",
+                "weight": 39.0983,
+                "energyLevels": [
+                    2,
+                    8,
+                    8,
+                    1
+                ],
+                "symbol": "K",
+                "atomicNumber": 19,
+                "discovered": "1807-AD",
+                "electronegativity": 0.82,
+                "series_en": "Alkali Metals",
+                "series_es": "Metales Alcalinos",
+                "bgColor": "#002a4e",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 336,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 337,
+                        "toK": 1031,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1032,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00030
+            },
+            {
+                "colIndex": 2,
+                "name_es": "Calsio",
+                "name_en": "Calsium",
+                "weight": 40.078,
+                "energyLevels": [
+                    2,
+                    8,
+                    8,
+                    2
+                ],
+                "symbol": "Ca",
+                "atomicNumber": 20,
+                "discovered": "1808-AD",
+                "electronegativity": 1.0,
+                "series_en": "Alkaline Earth Metals",
+                "series_es": "Metales Alcalinoterreos",
+                "bgColor": "#fdba12",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1114,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1115,
+                        "toK": 1756,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1757,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.0070
+            },
+            {
+                "colIndex": 3,
+                "name_es": "Scandio",
+                "name_en": "Scandium",
+                "weight": 44.956,
+                "energyLevels": [
+                    2,
+                    8,
+                    9,
+                    2
+                ],
+                "symbol": "Sc",
+                "atomicNumber": 21,
+                "discovered": "1879-AD",
+                "electronegativity": 1.36,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1813,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1814,
+                        "toK": 3102,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3103,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 3.0E-6
+            },
+            {
+                "colIndex": 4,
+                "name_es": "Titanio",
+                "name_en": "Titanium",
+                "weight": 47.867,
+                "energyLevels": [
+                    2,
+                    8,
+                    10,
+                    2
+                ],
+                "symbol": "Ti",
+                "atomicNumber": 22,
+                "discovered": "1791-AD",
+                "electronegativity": 1.54,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1940,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1941,
+                        "toK": 3559,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3560,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00030
+            },
+            {
+                "colIndex": 5,
+                "name_es": "Vanadio",
+                "name_en": "Vanadium",
+                "weight": 50.942,
+                "energyLevels": [
+                    2,
+                    8,
+                    11,
+                    2
+                ],
+                "symbol": "V",
+                "atomicNumber": 23,
+                "discovered": "1801-AD",
+                "electronegativity": 1.63,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2182,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2183,
+                        "toK": 3679,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3680,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.000100
+            },
+            {
+                "colIndex": 6,
+                "name_es": "Cromo",
+                "name_en": "Chromium",
+                "weight": 51.9961,
+                "energyLevels": [
+                    2,
+                    8,
+                    13,
+                    1
+                ],
+                "symbol": "Cr",
+                "atomicNumber": 24,
+                "discovered": "1797-AD",
+                "electronegativity": 1.66,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2179,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2180,
+                        "toK": 2943,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2944,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.0015
+            },
+            {
+                "colIndex": 7,
+                "name_es": "Manganeso",
+                "name_en": "Manganese",
+                "weight": 54.938043,
+                "energyLevels": [
+                    2,
+                    8,
+                    13,
+                    2
+                ],
+                "symbol": "Mn",
+                "atomicNumber": 25,
+                "discovered": "1774-AD",
+                "electronegativity": 1.55,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1518,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1519,
+                        "toK": 2333,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2334,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00080
+            },
+            {
+                "colIndex": 8,
+                "name_es": "Hierro",
+                "name_en": "Iron",
+                "weight": 55.845,
+                "energyLevels": [
+                    2,
+                    8,
+                    14,
+                    2
+                ],
+                "symbol": "Fe",
+                "atomicNumber": 26,
+                "discovered": "2000-BC",
+                "electronegativity": 1.83,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1810,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1811,
+                        "toK": 3133,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3134,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.11
+            },
+            {
+                "colIndex": 9,
+                "name_es": "Cobalto",
+                "name_en": "Cobalt",
+                "weight": 58.933194,
+                "energyLevels": [
+                    2,
+                    8,
+                    15,
+                    2
+                ],
+                "symbol": "Co",
+                "atomicNumber": 27,
+                "discovered": "1735-AD",
+                "electronegativity": 1.88,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1767,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1768,
+                        "toK": 3199,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3200,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00030
+            },
+            {
+                "colIndex": 10,
+                "name_es": "Niquel",
+                "name_en": "Nickel",
+                "weight": 58.6934,
+                "energyLevels": [
+                    2,
+                    8,
+                    16,
+                    2
+                ],
+                "symbol": "Ni",
+                "atomicNumber": 28,
+                "discovered": "1751-AD",
+                "electronegativity": 1.91,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1727,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1728,
+                        "toK": 3185,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3186,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.0060
+            },
+            {
+                "colIndex": 11,
+                "name_es": "Cobre",
+                "name_en": "Cooper",
+                "weight": 63.546,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    1
+                ],
+                "symbol": "Cu",
+                "atomicNumber": 29,
+                "discovered": "8000-BC",
+                "electronegativity": 1.90,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1357,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1358,
+                        "toK": 2834,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2834,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 6.0E-6
+            },
+            {
+                "colIndex": 12,
+                "name_es": "Cinc",
+                "name_en": "Zinc",
+                "weight": 63.546,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    2
+                ],
+                "symbol": "Zn",
+                "atomicNumber": 30,
+                "discovered": "1500-AD",
+                "electronegativity": 1.65,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 692,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 693,
+                        "toK": 1179,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1180,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.000030
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Galio",
+                "name_en": "Gallium",
+                "weight": 69.723,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    3
+                ],
+                "symbol": "Ga",
+                "atomicNumber": 31,
+                "discovered": "1875-AD",
+                "electronegativity": 1.81,
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 302,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 303,
+                        "toK": 2476,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2477,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-6
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Germanio",
+                "name_en": "Germanium",
+                "weight": 72.63,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    4
+                ],
+                "symbol": "Ge",
+                "atomicNumber": 32,
+                "discovered": "1886-AD",
+                "electronegativity": 2.01,
+                "series_en": "Metalloids",
+                "series_es": "Metaloides",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1211,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1212,
+                        "toK": 3092,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3093,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.000020
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Arsenico",
+                "name_en": "Arsenic",
+                "weight": 74.921595,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    5
+                ],
+                "symbol": "As",
+                "atomicNumber": 33,
+                "discovered": "1250-AD",
+                "electronegativity": 2.18,
+                "series_en": "Metalloids",
+                "series_es": "Metaloides",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 886,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 887,
+                        "toK": 1089,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 8.0E-7
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Selenio",
+                "name_en": "Selenium",
+                "weight": 78.971,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    6
+                ],
+                "symbol": "Se",
+                "atomicNumber": 34,
+                "discovered": "1817-AD",
+                "electronegativity": 2.55,
+                "series_en": "Reactive Nonmetals",
+                "series_es": "No metales",
+                "bgColor": "#f58021",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 493,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 494,
+                        "toK": 957,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 958,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 3.0E-6
+            },
+            {
+                "colIndex": 17,
+                "name_es": "Bromo",
+                "name_en": "Bromine",
+                "weight": 79.904,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    7
+                ],
+                "symbol": "Br",
+                "atomicNumber": 35,
+                "discovered": "1826-AD",
+                "electronegativity": 2.96,
+                "series_en": "Halogens",
+                "series_es": "Halogenos",
+                "bgColor": "#a2b427",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 265,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 266,
+                        "toK": 331,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 332,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 7.0E-7
+            },
+            {
+                "colIndex": 18,
+                "name_es": "Kripton",
+                "name_en": "Krypton",
+                "weight": 83.798,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    8
+                ],
+                "symbol": "Kr",
+                "atomicNumber": 36,
+                "discovered": "1898-AD",
+                "electronegativity": 3.0,
+                "series_en": "Nobles gases",
+                "series_es": "Gases nobles",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 115,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 116,
+                        "toK": 119,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 120,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 4.0E-6
+            }
+        ],
+        [
+            {
+                "colIndex": 1,
+                "name_es": "Rubidio",
+                "name_en": "Rubidium",
+                "weight": 85.4678,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    8,
+                    1
+                ],
+                "symbol": "Rb",
+                "atomicNumber": 37,
+                "discovered": "1861-AD",
+                "electronegativity": 0.82,
+                "series_en": "Alkali Metals",
+                "series_es": "Metales Alcalinos",
+                "bgColor": "#002a4e",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 312,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 313,
+                        "toK": 960,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 961,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-6
+            },
+            {
+                "colIndex": 2,
+                "name_es": "Estroncio",
+                "name_en": "Strontium",
+                "weight": 87.62,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    8,
+                    2
+                ],
+                "symbol": "Sr",
+                "atomicNumber": 38,
+                "discovered": "1790-AD",
+                "electronegativity": 0.95,
+                "series_en": "Alkaline Earth Metals",
+                "series_es": "Metales Alcalinoterreos",
+                "bgColor": "#fdba12",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1049,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1050,
+                        "toK": 1654,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1655,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 4.0E-6
+            },
+            {
+                "colIndex": 3,
+                "name_es": "Itrio",
+                "name_en": "Yttrium",
+                "weight": 88.905838,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    9,
+                    2
+                ],
+                "symbol": "Y",
+                "atomicNumber": 39,
+                "discovered": "1794-AD",
+                "electronegativity": 1.22,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1798,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1799,
+                        "toK": 3617,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3618,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 7.0E-7
+            },
+            {
+                "colIndex": 4,
+                "name_es": "Circonio",
+                "name_en": "Zirconium",
+                "weight": 91.224,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    10,
+                    2
+                ],
+                "symbol": "Zr",
+                "atomicNumber": 40,
+                "discovered": "1789-AD",
+                "electronegativity": 1.33,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2127,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2128,
+                        "toK": 4681,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4682,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-6
+            },
+            {
+                "colIndex": 5,
+                "name_es": "Niobio",
+                "name_en": "Niobium",
+                "weight": 92.90637,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    12,
+                    1
+                ],
+                "symbol": "Nb",
+                "atomicNumber": 41,
+                "discovered": "1801-AD",
+                "electronegativity": 1.6,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2749,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2750,
+                        "toK": 5016,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 5017,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 6,
+                "name_es": "Molibdeno",
+                "name_en": "Molybdenum",
+                "weight": 95.95,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    13,
+                    1
+                ],
+                "symbol": "Mo",
+                "atomicNumber": 42,
+                "discovered": "1781-AD",
+                "electronegativity": 2.16,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2895,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2896,
+                        "toK": 4911,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4912,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-7
+            },
+            {
+                "colIndex": 7,
+                "name_es": "Tecnecio",
+                "name_en": "Technetium",
+                "weight": 98.0,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    13,
+                    2
+                ],
+                "symbol": "Tc",
+                "atomicNumber": 43,
+                "discovered": "1937-AD",
+                "electronegativity": 1.9,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2429,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2430,
+                        "toK": 4537,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4538,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 8,
+                "name_es": "Rutenio",
+                "name_en": "Ruthenium",
+                "weight": 101.07,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    15,
+                    1
+                ],
+                "symbol": "Ru",
+                "atomicNumber": 44,
+                "discovered": "1844-AD",
+                "electronegativity": 2.2,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2606,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2607,
+                        "toK": 4422,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4423,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 4.0E-7
+            },
+            {
+                "colIndex": 9,
+                "name_es": "Rodio",
+                "name_en": "Rhodium",
+                "weight": 102.90549,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    16,
+                    1
+                ],
+                "symbol": "Rh",
+                "atomicNumber": 45,
+                "discovered": "1803-AD",
+                "electronegativity": 2.28,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2236,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2237,
+                        "toK": 3967,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3968,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 6.0E-8
+            },
+            {
+                "colIndex": 10,
+                "name_es": "Paladio",
+                "name_en": "Palladium",
+                "weight": 106.42,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18
+                ],
+                "symbol": "Pd",
+                "atomicNumber": 46,
+                "discovered": "1803-AD",
+                "electronegativity": 2.20,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1828,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1829,
+                        "toK": 3235,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3236,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 11,
+                "name_es": "Plata",
+                "name_en": "Silver",
+                "weight": 107.8682,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    1
+                ],
+                "symbol": "Ag",
+                "atomicNumber": 47,
+                "discovered": "3000-BC",
+                "electronegativity": 1.93,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1234,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1235,
+                        "toK": 2434,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2435,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 6.0E-8
+            },
+            {
+                "colIndex": 12,
+                "name_es": "Cadmio",
+                "name_en": "Cadmium",
+                "weight": 112.414,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    2
+                ],
+                "symbol": "Cd",
+                "atomicNumber": 48,
+                "discovered": "1817-AD",
+                "electronegativity": 1.69,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 594,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 595,
+                        "toK": 1039,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1040,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Indio",
+                "name_en": "Indium",
+                "weight": 112.414,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    3
+                ],
+                "symbol": "In",
+                "atomicNumber": 49,
+                "discovered": "1863-AD",
+                "electronegativity": 1.78,
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 429,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 430,
+                        "toK": 2344,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2345,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 3.0E-8
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Estaño",
+                "name_en": "Tin",
+                "weight": 112.414,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    4
+                ],
+                "symbol": "Sn",
+                "atomicNumber": 50,
+                "discovered": "3000-BC",
+                "electronegativity": 1.96,
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 505,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 506,
+                        "toK": 2874,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2875,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 4.0E-7
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Antimonio",
+                "name_en": "Antimony",
+                "weight": 121.760,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    5
+                ],
+                "symbol": "Sb",
+                "atomicNumber": 51,
+                "discovered": "3000-BC",
+                "electronegativity": 2.05,
+                "series_en": "Metalloids",
+                "series_es": "Metaloides",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 903,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 904,
+                        "toK": 1859,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1860,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 4.0E-8
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Teluro",
+                "name_en": "Tellurium",
+                "weight": 127.60,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    6
+                ],
+                "symbol": "Te",
+                "atomicNumber": 52,
+                "discovered": "1783-AD",
+                "electronegativity": 2.1,
+                "series_en": "Metalloids",
+                "series_es": "Metaloides",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 722,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 723,
+                        "toK": 1260,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1261,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 9.0E-7
+            },
+            {
+                "colIndex": 17,
+                "name_es": "Yodo",
+                "name_en": "Iodine",
+                "weight": 126.90447,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    7
+                ],
+                "symbol": "I",
+                "atomicNumber": 53,
+                "discovered": "1811-AD",
+                "electronegativity": 2.66,
+                "series_en": "Halogens",
+                "series_es": "Halogenos",
+                "bgColor": "#a2b427",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 386,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 387,
+                        "toK": 457,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 458,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-7
+            },
+            {
+                "colIndex": 18,
+                "name_es": "Xenon",
+                "name_en": "Xenon",
+                "weight": 131.293,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    8
+                ],
+                "symbol": "Xe",
+                "atomicNumber": 54,
+                "discovered": "1898-AD",
+                "electronegativity": 2.6,
+                "series_en": "Nobles gases",
+                "series_es": "Gases nobles",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 161,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 162,
+                        "toK": 165,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 166,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-6
+            }
+        ],
+        [
+            {
+                "colIndex": 1,
+                "name_es": "Cesio",
+                "name_en": "Caesium",
+                "weight": 132.90545196,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    8,
+                    1
+                ],
+                "symbol": "Cs",
+                "atomicNumber": 55,
+                "discovered": "1860-AD",
+                "electronegativity": 0.79,
+                "series_en": "Alkali Metals",
+                "series_es": "Metales Alcalinos",
+                "bgColor": "#002a4e",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 301,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 302,
+                        "toK": 943,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 944,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 8.0E-8
+            },
+            {
+                "colIndex": 2,
+                "name_es": "Bario",
+                "name_en": "Barium",
+                "weight": 137.327,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    8,
+                    2
+                ],
+                "symbol": "Ba",
+                "atomicNumber": 56,
+                "discovered": "1808-AD",
+                "electronegativity": 0.89,
+                "series_en": "Alkaline Earth Metals",
+                "series_es": "Metales Alcalinoterreos",
+                "bgColor": "#fdba12",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 999,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1000,
+                        "toK": 2142,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2143,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-6
+            },
+            {
+                "colIndex": 3,
+                "name_es": "Lutecio",
+                "name_en": "Lutetium",
+                "weight": 174.9668,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    9,
+                    2
+                ],
+                "symbol": "Lu",
+                "atomicNumber": 71,
+                "discovered": "1907-AD",
+                "electronegativity": 1.27,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1935,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1936,
+                        "toK": 3674,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3675,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-8
+            },
+            {
+                "colIndex": 4,
+                "name_es": "Hafnio",
+                "name_en": "Hafnium",
+                "weight": 178.486,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    10,
+                    2
+                ],
+                "symbol": "Hf",
+                "atomicNumber": 72,
+                "discovered": "1923-AD",
+                "electronegativity": 1.3,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2505,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2506,
+                        "toK": 4875,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4876,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 7.0E-8
+            },
+            {
+                "colIndex": 5,
+                "name_es": "Tantalo",
+                "name_en": "Tantalum",
+                "weight": 180.94788,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    11,
+                    2
+                ],
+                "symbol": "Ta",
+                "atomicNumber": 73,
+                "discovered": "1802-AD",
+                "electronegativity": 1.5,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 3289,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 3290,
+                        "toK": 5730,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 5731,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 8.0E-9
+            },
+            {
+                "colIndex": 6,
+                "name_es": "Wolframio",
+                "name_en": "Tungsten",
+                "weight": 183.84,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    12,
+                    2
+                ],
+                "symbol": "W",
+                "atomicNumber": 74,
+                "discovered": "1783-AD",
+                "electronegativity": 2.36,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 3694,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 3695,
+                        "toK": 5827,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 5828,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-8
+            },
+            {
+                "colIndex": 7,
+                "name_es": "Renio",
+                "name_en": "Rhenium",
+                "weight": 186.207,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    13,
+                    2
+                ],
+                "symbol": "Re",
+                "atomicNumber": 75,
+                "discovered": "1925-AD",
+                "electronegativity": 1.9,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 3458,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 3459,
+                        "toK": 5868,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 5869,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-8
+            },
+            {
+                "colIndex": 8,
+                "name_es": "Osmio",
+                "name_en": "Osmium",
+                "weight": 190.23,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    14,
+                    2
+                ],
+                "symbol": "Os",
+                "atomicNumber": 76,
+                "discovered": "1803-AD",
+                "electronegativity": 2.2,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 3305,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 3306,
+                        "toK": 5284,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 5285,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 3.0E-7
+            },
+            {
+                "colIndex": 9,
+                "name_es": "Iridio",
+                "name_en": "Iridium",
+                "weight": 192.217,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    15,
+                    2
+                ],
+                "symbol": "Ir",
+                "atomicNumber": 77,
+                "discovered": "1803-AD",
+                "electronegativity": 2.2,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2738,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2739,
+                        "toK": 4700,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4701,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 10,
+                "name_es": "Platino",
+                "name_en": "Platinum",
+                "weight": 195.084,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    17,
+                    1
+                ],
+                "symbol": "Pt",
+                "atomicNumber": 78,
+                "discovered": "1735-AD",
+                "electronegativity": 2.28,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2041,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2042,
+                        "toK": 4097,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4098,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-7
+            },
+            {
+                "colIndex": 11,
+                "name_es": "Oro",
+                "name_en": "Gold",
+                "weight": 196.966570,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    1
+                ],
+                "symbol": "Au",
+                "atomicNumber": 79,
+                "discovered": "2500-BC",
+                "electronegativity": 2.54,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1337,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1338,
+                        "toK": 3128,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3129,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 6.0E-8
+            },
+            {
+                "colIndex": 12,
+                "name_es": "Mercurio",
+                "name_en": "Mercury",
+                "weight": 200.59,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    2
+                ],
+                "symbol": "Hg",
+                "atomicNumber": 80,
+                "discovered": "1500-BC",
+                "electronegativity": 2.0,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 234,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 235,
+                        "toK": 629,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 630,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-7
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Talio",
+                "name_en": "Thallium",
+                "weight": 204.38,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    3
+                ],
+                "symbol": "Tl",
+                "atomicNumber": 81,
+                "discovered": "1861-AD",
+                "electronegativity": 1.62,
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 576,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 577,
+                        "toK": 1745,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1746,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-8
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Plomo",
+                "name_en": "Lead",
+                "weight": 207.2,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    4
+                ],
+                "symbol": "Pb",
+                "atomicNumber": 82,
+                "discovered": "4000-BC",
+                "electronegativity": 2.33,
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 600,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 601,
+                        "toK": 2021,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2022,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-6
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Bismuto",
+                "name_en": "Bismuth",
+                "weight": 208.98040,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    5
+                ],
+                "symbol": "Bi",
+                "atomicNumber": 83,
+                "discovered": "1400-AD",
+                "electronegativity": 2.02,
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 544,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 545,
+                        "toK": 1836,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1837,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 7.0E-8
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Polonio",
+                "name_en": "Polonium",
+                "weight": 209,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    6
+                ],
+                "symbol": "Po",
+                "atomicNumber": 84,
+                "discovered": "1898-AD",
+                "electronegativity": 2.00,
+                "series_en": "Metalloids",
+                "series_es": "Metaloides",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 527,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 528,
+                        "toK": 1234,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1235,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 17,
+                "name_es": "Astato",
+                "name_en": "Astatine",
+                "weight": 210,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    7
+                ],
+                "symbol": "At",
+                "atomicNumber": 85,
+                "discovered": "1940-AD",
+                "electronegativity": 2.2,
+                "series_en": "Halogens",
+                "series_es": "Halogenos",
+                "bgColor": "#a2b427",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 574,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 575,
+                        "toK": 622,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 623,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 18,
+                "name_es": "Radon",
+                "name_en": "Radon",
+                "weight": 222,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    8
+                ],
+                "symbol": "Rn",
+                "atomicNumber": 86,
+                "discovered": "1900-AD",
+                "electronegativity": 2.2,
+                "series_en": "Nobles gases",
+                "series_es": "Gases nobles",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 201,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 202,
+                        "toK": 210,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 211,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            }
+        ],
+        [
+            {
+                "colIndex": 1,
+                "name_es": "Francio",
+                "name_en": "Francium",
+                "weight": 223,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    8,
+                    1
+                ],
+                "symbol": "Fr",
+                "atomicNumber": 87,
+                "discovered": "1939-AD",
+                "electronegativity": 0.7,
+                "series_en": "Alkali Metals",
+                "series_es": "Metales Alcalinos",
+                "bgColor": "#002a4e",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 293,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 294,
+                        "toK": 922,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 923,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 2,
+                "name_es": "Radio",
+                "name_en": "Radium",
+                "weight": 226,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    8,
+                    2
+                ],
+                "symbol": "Ra",
+                "atomicNumber": 88,
+                "discovered": "1898-AD",
+                "electronegativity": 0.9,
+                "series_en": "Alkaline Earth Metals",
+                "series_es": "Metales Alcalinoterreos",
+                "bgColor": "#fdba12",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 972,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 973,
+                        "toK": 2009,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2010,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 3,
+                "name_es": "Laurencio",
+                "name_en": "Lawrencium",
+                "weight": 266,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    8,
+                    3
+                ],
+                "symbol": "Lr",
+                "atomicNumber": 103,
+                "discovered": "1961-AD",
+                "electronegativity": null,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1899,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1900,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 4,
+                "name_es": "Rutherfordio",
+                "name_en": "Rutherfordium",
+                "weight": 267,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    10,
+                    2
+                ],
+                "symbol": "Rf",
+                "atomicNumber": 104,
+                "discovered": "1964-AD",
+                "electronegativity": null,
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 5,
+                "name_es": "Dubnio",
+                "name_en": "Dubnium",
+                "weight": 268,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    11,
+                    2
+                ],
+                "symbol": "Db",
+                "atomicNumber": 105,
+                "discovered": "1967-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 6,
+                "name_es": "Seaborgio",
+                "name_en": "Seaborgium",
+                "weight": 269,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    12,
+                    2
+                ],
+                "symbol": "Sg",
+                "atomicNumber": 106,
+                "discovered": "1974-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 7,
+                "name_es": "Bohrio",
+                "name_en": "Bohrium",
+                "weight": 270,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    13,
+                    2
+                ],
+                "symbol": "Bh",
+                "atomicNumber": 107,
+                "discovered": "1981-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 8,
+                "name_es": "Hassio",
+                "name_en": "Hassium",
+                "weight": 270,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    14,
+                    2
+                ],
+                "symbol": "Hs",
+                "atomicNumber": 108,
+                "discovered": "1984-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 9,
+                "name_es": "Meitnerio",
+                "name_en": "Meitnerium",
+                "weight": 278,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    15,
+                    2
+                ],
+                "symbol": "Mt",
+                "atomicNumber": 109,
+                "discovered": "1982-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 10,
+                "name_es": "Darmstatio",
+                "name_en": "Darmstadium",
+                "weight": 281,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    17,
+                    1
+                ],
+                "symbol": "Ds",
+                "atomicNumber": 110,
+                "discovered": "1994-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 11,
+                "name_es": "Roentgenio",
+                "name_en": "Roentgenium",
+                "weight": 282,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    17,
+                    2
+                ],
+                "symbol": "Rg",
+                "atomicNumber": 111,
+                "discovered": "1994-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 12,
+                "name_es": "Copernicio",
+                "name_en": "Copernicium",
+                "weight": 285,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    18,
+                    2
+                ],
+                "symbol": "Cn",
+                "atomicNumber": 112,
+                "discovered": "1996-AD",
+                "electronegativity": "n/a",
+                "series_en": "Transition Metals",
+                "series_es": "Metales de transicion",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Nihonio",
+                "name_en": "Nihonium",
+                "weight": 286,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    18,
+                    3
+                ],
+                "symbol": "Nh",
+                "atomicNumber": 113,
+                "discovered": "2004-AD",
+                "electronegativity": "n/a",
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Flerovio",
+                "name_en": "Flerovium",
+                "weight": 289,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    18,
+                    4
+                ],
+                "symbol": "Fl",
+                "atomicNumber": 114,
+                "discovered": "1998-AD",
+                "electronegativity": "n/a",
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Moscovio",
+                "name_en": "Moscovium",
+                "weight": 290,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    18,
+                    5
+                ],
+                "symbol": "Mc",
+                "atomicNumber": 115,
+                "discovered": "2004-AD",
+                "electronegativity": "n/a",
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Livermonio",
+                "name_en": "Livermonium",
+                "weight": 293,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    18,
+                    6
+                ],
+                "symbol": "Mc",
+                "atomicNumber": 116,
+                "discovered": "2000-AD",
+                "electronegativity": "n/a",
+                "series_en": "P Block Metals",
+                "series_es": "Metales del Bloque P",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 17,
+                "name_es": "Teneso",
+                "name_en": "Tennessine",
+                "weight": 294,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    18,
+                    7
+                ],
+                "symbol": "Ts",
+                "atomicNumber": 117,
+                "discovered": "2010-AD",
+                "electronegativity": "n/a",
+                "series_en": "Halogens",
+                "series_es": "Halogenos",
+                "bgColor": "#a2b427",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 18,
+                "name_es": "Oganeson",
+                "name_en": "Oganesson",
+                "weight": 294,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    18,
+                    8
+                ],
+                "symbol": "Og",
+                "atomicNumber": 118,
+                "discovered": "2010-AD",
+                "electronegativity": "n/a",
+                "series_en": "Nobles gases",
+                "series_es": "Gases nobles",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0.00
+            }
+        ],
+        [
+            {
+                "colIndex": 3,
+                "name_es": "Lantano",
+                "name_en": "Lanthanum",
+                "weight": 138.90547,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    18,
+                    9,
+                    2
+                ],
+                "symbol": "La",
+                "atomicNumber": 57,
+                "discovered": "1839-AD",
+                "electronegativity": 1.1,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1192,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1193,
+                        "toK": 3736,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3737,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 4,
+                "name_es": "Cerio",
+                "name_en": "Cerium",
+                "weight": 140.116,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    19,
+                    9,
+                    2
+                ],
+                "symbol": "Ce",
+                "atomicNumber": 58,
+                "discovered": "1803-AD",
+                "electronegativity": 1.1,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1070,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1071,
+                        "toK": 3632,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3633,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-6
+            },
+            {
+                "colIndex": 5,
+                "name_es": "Preaseodimio",
+                "name_en": "Praseodymium",
+                "weight": 140.90766,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    21,
+                    8,
+                    2
+                ],
+                "symbol": "Pr",
+                "atomicNumber": 59,
+                "discovered": "1885-AD",
+                "electronegativity": 1.13,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1203,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1204,
+                        "toK": 3562,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3563,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 6,
+                "name_es": "Neodimio",
+                "name_en": "Neodymium",
+                "weight": 144.242,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    22,
+                    8,
+                    2
+                ],
+                "symbol": "Nd",
+                "atomicNumber": 60,
+                "discovered": "1885-AD",
+                "electronegativity": 1.14,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1293,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1294,
+                        "toK": 3372,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3373,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-6
+            },
+            {
+                "colIndex": 7,
+                "name_es": "Prometio",
+                "name_en": "Promethium",
+                "weight": 145.0,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    23,
+                    8,
+                    2
+                ],
+                "symbol": "Pm",
+                "atomicNumber": 61,
+                "discovered": "1945-AD",
+                "electronegativity": "n/a",
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1372,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1373,
+                        "toK": 3272,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3273,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 8,
+                "name_es": "Samario",
+                "name_en": "Samarium",
+                "weight": 150.36,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    24,
+                    8,
+                    2
+                ],
+                "symbol": "Sm",
+                "atomicNumber": 62,
+                "discovered": "1879-AD",
+                "electronegativity": 1.17,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1344,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1345,
+                        "toK": 2075,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2076,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-7
+            },
+            {
+                "colIndex": 9,
+                "name_es": "Europio",
+                "name_en": "Europium",
+                "weight": 151.964,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    25,
+                    8,
+                    2
+                ],
+                "symbol": "Eu",
+                "atomicNumber": 63,
+                "discovered": "1901-AD",
+                "electronegativity": "n/a",
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1094,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1095,
+                        "toK": 1799,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1800,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-8
+            },
+            {
+                "colIndex": 10,
+                "name_es": "Gadolinio",
+                "name_en": "Gadolinium",
+                "weight": 157.25,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    25,
+                    9,
+                    2
+                ],
+                "symbol": "Gd",
+                "atomicNumber": 64,
+                "discovered": "1880-AD",
+                "electronegativity": 1.20,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1585,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1586,
+                        "toK": 3522,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3523,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 11,
+                "name_es": "Terbio",
+                "name_en": "Terbium",
+                "weight": 158.925354,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    27,
+                    8,
+                    2
+                ],
+                "symbol": "Tb",
+                "atomicNumber": 65,
+                "discovered": "1843-AD",
+                "electronegativity": "n/a",
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1628,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1629,
+                        "toK": 3502,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3503,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-8
+            },
+            {
+                "colIndex": 12,
+                "name_es": "Disprosio",
+                "name_en": "Dysprosium",
+                "weight": 162.50,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    28,
+                    8,
+                    2
+                ],
+                "symbol": "Dy",
+                "atomicNumber": 66,
+                "discovered": "1886-AD",
+                "electronegativity": 1.22,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1684,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1685,
+                        "toK": 2839,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2840,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Holmio",
+                "name_en": "Holmium",
+                "weight": 164.930329,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    29,
+                    8,
+                    2
+                ],
+                "symbol": "Ho",
+                "atomicNumber": 67,
+                "discovered": "1878-AD",
+                "electronegativity": 1.23,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1746,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1747,
+                        "toK": 2972,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2973,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 5.0E-8
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Erbio",
+                "name_en": "Erbium",
+                "weight": 167.259,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    30,
+                    8,
+                    2
+                ],
+                "symbol": "Er",
+                "atomicNumber": 68,
+                "discovered": "1842-AD",
+                "electronegativity": 1.24,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1769,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1770,
+                        "toK": 3140,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3141,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Tulio",
+                "name_en": "Thulium",
+                "weight": 168.934219,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    31,
+                    8,
+                    2
+                ],
+                "symbol": "Tm",
+                "atomicNumber": 69,
+                "discovered": "1879-AD",
+                "electronegativity": 1.25,
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1817,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1818,
+                        "toK": 2222,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2223,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 1.00E-8
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Iterbio",
+                "name_en": "Ytterbium",
+                "weight": 173.045,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    8,
+                    2
+                ],
+                "symbol": "Yb",
+                "atomicNumber": 70,
+                "discovered": "1878-AD",
+                "electronegativity": "n/a",
+                "series_en": "Lanthanoids",
+                "series_es": "Lantanidos",
+                "bgColor": "#cbd48e",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1091,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1092,
+                        "toK": 1468,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 1469,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-7
+            }
+        ],
+        [
+            {
+                "colIndex": 3,
+                "name_es": "Actinio",
+                "name_en": "Actinium",
+                "weight": 227,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    9,
+                    2
+                ],
+                "symbol": "Ac",
+                "atomicNumber": 89,
+                "discovered": "1899-AD",
+                "electronegativity": 1.1,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1322,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1323,
+                        "toK": 3472,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3473,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 4,
+                "name_es": "Torio",
+                "name_en": "Thorium",
+                "weight": 232.0377,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    18,
+                    10,
+                    2
+                ],
+                "symbol": "Th",
+                "atomicNumber": 90,
+                "discovered": "1829-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 2022,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 2023,
+                        "toK": 5092,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 5093,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 4.0E-8
+            },
+            {
+                "colIndex": 5,
+                "name_es": "Protactinio",
+                "name_en": "Protactinium",
+                "weight": 231.03588,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    20,
+                    9,
+                    2
+                ],
+                "symbol": "Pa",
+                "atomicNumber": 91,
+                "discovered": "1913-AD",
+                "electronegativity": 1.5,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1844,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1845,
+                        "toK": 4272,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4273,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0.00
+            },
+            {
+                "colIndex": 6,
+                "name_es": "Uranio",
+                "name_en": "Uranium",
+                "weight": 238.02891,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    21,
+                    9,
+                    2
+                ],
+                "symbol": "U",
+                "atomicNumber": 92,
+                "discovered": "1789-AD",
+                "electronegativity": 1.5,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1407,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1408,
+                        "toK": 4199,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4200,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 2.0E-8
+            },
+            {
+                "colIndex": 7,
+                "name_es": "Neptunio",
+                "name_en": "Neptunium",
+                "weight": 237,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    22,
+                    9,
+                    2
+                ],
+                "symbol": "Np",
+                "atomicNumber": 93,
+                "discovered": "1940-AD",
+                "electronegativity": 1.36,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 916,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 917,
+                        "toK": 4272,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 4273,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 8,
+                "name_es": "Plutonio",
+                "name_en": "Plutonium",
+                "weight": 244,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    24,
+                    8,
+                    2
+                ],
+                "symbol": "Pu",
+                "atomicNumber": 94,
+                "discovered": "1940-AD",
+                "electronegativity": 1.28,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 912,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 913,
+                        "toK": 3502,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3503,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 9,
+                "name_es": "Americio",
+                "name_en": "Americium",
+                "weight": 243,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    25,
+                    8,
+                    2
+                ],
+                "symbol": "Am",
+                "atomicNumber": 95,
+                "discovered": "1944-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1448,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1449,
+                        "toK": 2283,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 2284,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 10,
+                "name_es": "Curio",
+                "name_en": "Curium",
+                "weight": 247,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    25,
+                    9,
+                    2
+                ],
+                "symbol": "Cm",
+                "atomicNumber": 96,
+                "discovered": "1944-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1617,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1618,
+                        "toK": 3382,
+                        "state_en": "liquid",
+                        "state_es": "liquido"
+                    },
+                    {
+                        "fromK": 3383,
+                        "toK": 6000,
+                        "state_en": "gas",
+                        "state_es": "gas"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 11,
+                "name_es": "Berquelio",
+                "name_en": "Berkelium",
+                "weight": 247,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    27,
+                    8,
+                    2
+                ],
+                "symbol": "Bk",
+                "atomicNumber": 97,
+                "discovered": "1949-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1322,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1323,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 12,
+                "name_es": "Californio",
+                "name_en": "CAlifornium",
+                "weight": 251,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    28,
+                    8,
+                    2
+                ],
+                "symbol": "Cf",
+                "atomicNumber": 98,
+                "discovered": "1950-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1172,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1173,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 13,
+                "name_es": "Einstenio",
+                "name_en": "Einstenium",
+                "weight": 252,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    29,
+                    8,
+                    2
+                ],
+                "symbol": "Es",
+                "atomicNumber": 99,
+                "discovered": "1952-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1132,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1133,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 14,
+                "name_es": "Fermio",
+                "name_en": "Fermium",
+                "weight": 257,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    30,
+                    8,
+                    2
+                ],
+                "symbol": "Fm",
+                "atomicNumber": 100,
+                "discovered": "1952-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1179,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1800,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 15,
+                "name_es": "Mendelevio",
+                "name_en": "Mendelevium",
+                "weight": 258,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    31,
+                    8,
+                    2
+                ],
+                "symbol": "Md",
+                "atomicNumber": 101,
+                "discovered": "1955-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1099,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1100,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0
+            },
+            {
+                "colIndex": 16,
+                "name_es": "Nobelio",
+                "name_en": "Nobelium",
+                "weight": 259,
+                "energyLevels": [
+                    2,
+                    8,
+                    18,
+                    32,
+                    32,
+                    8,
+                    2
+                ],
+                "symbol": "No",
+                "atomicNumber": 102,
+                "discovered": "1958-AD",
+                "electronegativity": 1.3,
+                "series_en": "Actinoids",
+                "series_es": "Actinidos",
+                "bgColor": "#67a484",
+                "txColor": "#161608",
+                "states": [
+                    {
+                        "fromK": 0,
+                        "toK": 1099,
+                        "state_en": "solid",
+                        "state_es": "solido"
+                    },
+                    {
+                        "fromK": 1100,
+                        "toK": 6000,
+                        "state_en": "unknow",
+                        "state_es": "desconocido"
+                    }
+                ],
+                "abundance": 0
+            }
+        ] 
+    ]
+}

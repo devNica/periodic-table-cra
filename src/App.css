@@ -1,0 +1,17 @@
+*{
+  --bg-dark: rgba(3, 7, 16, 0.919);
+  --bg-light: rgba(239, 243, 250, 0.883);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  background-color: var(--bg-light);
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
