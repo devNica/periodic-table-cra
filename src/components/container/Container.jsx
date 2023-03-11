@@ -1,12 +1,18 @@
 import PeriodicTable from '../PeriodicTable/PeriodicTable'
+import SideBar from '../sidebar/SideBar'
 import './container.css'
+
 
 const Container = () => {
 
     return (
         <div className="container">
-            <PeriodicTable />
+            <div className="table-wrapper">
+                <PeriodicTable />
+            </div>
+            <SideBar/>
         </div>
+
     )
 }
 

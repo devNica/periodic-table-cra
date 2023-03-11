@@ -1,0 +1,24 @@
+.catg {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0.3rem;
+}
+
+.catg .box-color {
+    width: 28px;
+    height: 16px;
+    border-radius: 2px;
+}
+
+.catg .box-color:hover {
+    cursor: pointer;
+}
+
+
+.catg .catg-name{
+    padding: 0.2rem;
+    font-size: 10px;
+    font-family: 'Golos Text', sans-serif;
+    color: aliceblue;
+}
