@@ -2,6 +2,109 @@
     "rows": [
         [
             {
+                "colIndex": 5,
+                "name_es": "GSN",
+                "name_en": "NGS",
+                "bgColor": "#006a36",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "gsn"
+            },
+            {
+                "colIndex": 6,
+                "name_es": "HLG",
+                "name_en": "HLG",
+                "bgColor": "#a2b427",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "hlg"
+            },
+            {
+                "colIndex": 7,
+                "name_es": "NMT",
+                "name_en": "NMT",
+                "bgColor": "#f58021",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "nmt"
+            },
+            {
+                "colIndex": 8,
+                "name_es": "MTL",
+                "name_en": "MTL",
+                "bgColor": "#ed1944",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "mtl"
+            },
+            {
+                "colIndex": 9,
+                "name_es": "MBP",
+                "name_en": "PBM",
+                "bgColor": "#781e77",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "pbm"
+            },
+            {
+                "colIndex": 10,
+                "name_es": "MTT",
+                "name_en": "TMT",
+                "bgColor": "#0088ce",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "tmt"
+            },
+            {
+                "colIndex": 11,
+                "name_es": "MAT",
+                "name_en": "AEM",
+                "bgColor": "#fdba12",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "aem"
+            },
+            {
+                "colIndex": 12,
+                "name_es": "MTA",
+                "name_en": "AMT",
+                "bgColor": "#002a4e",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "amt"
+            },
+            {
+                "colIndex": 13,
+                "name_es": "LTN",
+                "name_en": "LTN",
+                "bgColor": "#cbd48e",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "ltn"
+            },
+            {
+                "colIndex": 14,
+                "name_es": "ACT",
+                "name_en": "ACT",
+                "bgColor": "#67a484",
+                "txColor": "#fff",
+                "weight": 0.00,
+                "type": "cat",
+                "group": "act"
+            }
+        ],
+        [
+            {
+                "group": "nmt",
                 "colIndex": 1,
                 "name_es": "Hidrogeno",
                 "name_en": "Hydrogen",
@@ -40,6 +143,7 @@
                 "abundance": 75
             },
             {
+                "group": "gsn",
                 "colIndex": 18,
                 "name_es": "Helio",
                 "name_en": "Helium",
@@ -74,6 +178,7 @@
         ],
         [
             {
+                "group": "amt",
                 "colIndex": 1,
                 "name_es": "Litio",
                 "name_en": "Lithium",
@@ -113,6 +218,7 @@
                 "abundance": 6.0E-7
             },
             {
+                "group": "aem",
                 "colIndex": 2,
                 "name_es": "Berilio",
                 "name_en": "Beryllium",
@@ -152,6 +258,7 @@
                 "abundance": 1.00E-7
             },
             {
+                "group": "mtl",
                 "colIndex": 13,
                 "name_es": "Boro",
                 "name_en": "Boron",
@@ -191,6 +298,7 @@
                 "abundance": 1.00E-7
             },
             {
+                "group": "nmt",
                 "colIndex": 14,
                 "name_es": "Carbono",
                 "name_en": "Carbon",
@@ -224,6 +332,7 @@
                 "abundance": 0.5
             },
             {
+                "group": "nmt",
                 "colIndex": 15,
                 "name_es": "Nitrogeno",
                 "name_en": "Nitrogen",
@@ -263,6 +372,7 @@
                 "abundance": 0.1
             },
             {
+                "group": "nmt",
                 "colIndex": 16,
                 "name_es": "Oxigeno",
                 "name_en": "Oxygen",
@@ -302,6 +412,7 @@
                 "abundance": 1.00
             },
             {
+                "group": "hlg",
                 "colIndex": 17,
                 "name_es": "Fluor",
                 "name_en": "Fluorine",
@@ -341,6 +452,7 @@
                 "abundance": 0.000040
             },
             {
+                "group": "gsn",
                 "colIndex": 18,
                 "name_es": "Neon",
                 "name_en": "Neon",
@@ -382,6 +494,7 @@
         ],
         [
             {
+                "group": "amt",
                 "colIndex": 1,
                 "name_es": "Sodio",
                 "name_en": "Sodium",
@@ -422,6 +535,7 @@
                 "abundance": 0.0020
             },
             {
+                "group": "aem",
                 "colIndex": 2,
                 "name_es": "Magnesio",
                 "name_en": "MAgenesium",
@@ -462,6 +576,7 @@
                 "abundance": 0.060
             },
             {
+                "group": "pbm",
                 "colIndex": 13,
                 "name_es": "Aluminio",
                 "name_en": "Aluminium",
@@ -502,6 +617,7 @@
                 "abundance": 0.0050
             },
             {
+                "group": "mtl",
                 "colIndex": 14,
                 "name_es": "Silicio",
                 "name_en": "Silicon",
@@ -542,6 +658,7 @@
                 "abundance": 0.070
             },
             {
+                "group": "nmt",
                 "colIndex": 15,
                 "name_es": "Fosforo",
                 "name_en": "Phosphorus",
@@ -582,6 +699,7 @@
                 "abundance": 0.00070
             },
             {
+                "group": "nmt",
                 "colIndex": 16,
                 "name_es": "Azufre",
                 "name_en": "Sulfur",
@@ -622,6 +740,7 @@
                 "abundance": 0.050
             },
             {
+                "group": "hlg",
                 "colIndex": 17,
                 "name_es": "Cloro",
                 "name_en": "Chlorine",
@@ -662,6 +781,7 @@
                 "abundance": 0.000100
             },
             {
+                "group": "gsn",
                 "colIndex": 18,
                 "name_es": "Argon",
                 "name_en": "Argon",
@@ -704,6 +824,7 @@
         ],
         [
             {
+                "group": "amt",
                 "colIndex": 1,
                 "name_es": "Potasio",
                 "name_en": "Potasium",
@@ -745,8 +866,9 @@
                 "abundance": 0.00030
             },
             {
+                "group": "aem",
                 "colIndex": 2,
-                "name_es": "Calsio",
+                "name_es": "Calcio",
                 "name_en": "Calsium",
                 "weight": 40.078,
                 "energyLevels": [
@@ -786,6 +908,7 @@
                 "abundance": 0.0070
             },
             {
+                "group": "tmt",
                 "colIndex": 3,
                 "name_es": "Scandio",
                 "name_en": "Scandium",
@@ -827,6 +950,7 @@
                 "abundance": 3.0E-6
             },
             {
+                "group": "tmt",
                 "colIndex": 4,
                 "name_es": "Titanio",
                 "name_en": "Titanium",
@@ -868,6 +992,7 @@
                 "abundance": 0.00030
             },
             {
+                "group": "tmt",
                 "colIndex": 5,
                 "name_es": "Vanadio",
                 "name_en": "Vanadium",
@@ -909,6 +1034,7 @@
                 "abundance": 0.000100
             },
             {
+                "group": "tmt",
                 "colIndex": 6,
                 "name_es": "Cromo",
                 "name_en": "Chromium",
@@ -950,6 +1076,7 @@
                 "abundance": 0.0015
             },
             {
+                "group": "tmt",
                 "colIndex": 7,
                 "name_es": "Manganeso",
                 "name_en": "Manganese",
@@ -991,6 +1118,7 @@
                 "abundance": 0.00080
             },
             {
+                "group": "tmt",
                 "colIndex": 8,
                 "name_es": "Hierro",
                 "name_en": "Iron",
@@ -1032,6 +1160,7 @@
                 "abundance": 0.11
             },
             {
+                "group": "tmt",
                 "colIndex": 9,
                 "name_es": "Cobalto",
                 "name_en": "Cobalt",
@@ -1073,6 +1202,7 @@
                 "abundance": 0.00030
             },
             {
+                "group": "tmt",
                 "colIndex": 10,
                 "name_es": "Niquel",
                 "name_en": "Nickel",
@@ -1114,6 +1244,7 @@
                 "abundance": 0.0060
             },
             {
+                "group": "tmt",
                 "colIndex": 11,
                 "name_es": "Cobre",
                 "name_en": "Cooper",
@@ -1155,6 +1286,7 @@
                 "abundance": 6.0E-6
             },
             {
+                "group": "tmt",
                 "colIndex": 12,
                 "name_es": "Cinc",
                 "name_en": "Zinc",
@@ -1196,6 +1328,7 @@
                 "abundance": 0.000030
             },
             {
+                "group": "pbm",
                 "colIndex": 13,
                 "name_es": "Galio",
                 "name_en": "Gallium",
@@ -1237,6 +1370,7 @@
                 "abundance": 1.00E-6
             },
             {
+                "group": "mtl",
                 "colIndex": 14,
                 "name_es": "Germanio",
                 "name_en": "Germanium",
@@ -1278,6 +1412,7 @@
                 "abundance": 0.000020
             },
             {
+                "group": "mtl",
                 "colIndex": 15,
                 "name_es": "Arsenico",
                 "name_en": "Arsenic",
@@ -1313,6 +1448,7 @@
                 "abundance": 8.0E-7
             },
             {
+                "group": "nmt",
                 "colIndex": 16,
                 "name_es": "Selenio",
                 "name_en": "Selenium",
@@ -1354,6 +1490,7 @@
                 "abundance": 3.0E-6
             },
             {
+                "group": "hlg",
                 "colIndex": 17,
                 "name_es": "Bromo",
                 "name_en": "Bromine",
@@ -1395,6 +1532,7 @@
                 "abundance": 7.0E-7
             },
             {
+                "group": "gsn",
                 "colIndex": 18,
                 "name_es": "Kripton",
                 "name_en": "Krypton",
@@ -1438,6 +1576,7 @@
         ],
         [
             {
+                "group": "amt",
                 "colIndex": 1,
                 "name_es": "Rubidio",
                 "name_en": "Rubidium",
@@ -1480,6 +1619,7 @@
                 "abundance": 1.00E-6
             },
             {
+                "group": "aem",
                 "colIndex": 2,
                 "name_es": "Estroncio",
                 "name_en": "Strontium",
@@ -1522,6 +1662,7 @@
                 "abundance": 4.0E-6
             },
             {
+                "group": "tmt",
                 "colIndex": 3,
                 "name_es": "Itrio",
                 "name_en": "Yttrium",
@@ -1564,6 +1705,7 @@
                 "abundance": 7.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 4,
                 "name_es": "Circonio",
                 "name_en": "Zirconium",
@@ -1606,6 +1748,7 @@
                 "abundance": 5.0E-6
             },
             {
+                "group": "tmt",
                 "colIndex": 5,
                 "name_es": "Niobio",
                 "name_en": "Niobium",
@@ -1648,6 +1791,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 6,
                 "name_es": "Molibdeno",
                 "name_en": "Molybdenum",
@@ -1690,6 +1834,7 @@
                 "abundance": 5.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 7,
                 "name_es": "Tecnecio",
                 "name_en": "Technetium",
@@ -1732,6 +1877,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 8,
                 "name_es": "Rutenio",
                 "name_en": "Ruthenium",
@@ -1774,6 +1920,7 @@
                 "abundance": 4.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 9,
                 "name_es": "Rodio",
                 "name_en": "Rhodium",
@@ -1816,6 +1963,7 @@
                 "abundance": 6.0E-8
             },
             {
+                "group": "tmt",
                 "colIndex": 10,
                 "name_es": "Paladio",
                 "name_en": "Palladium",
@@ -1857,6 +2005,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 11,
                 "name_es": "Plata",
                 "name_en": "Silver",
@@ -1899,6 +2048,7 @@
                 "abundance": 6.0E-8
             },
             {
+                "group": "tmt",
                 "colIndex": 12,
                 "name_es": "Cadmio",
                 "name_en": "Cadmium",
@@ -1941,6 +2091,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "pbm",
                 "colIndex": 13,
                 "name_es": "Indio",
                 "name_en": "Indium",
@@ -1983,6 +2134,7 @@
                 "abundance": 3.0E-8
             },
             {
+                "group": "pbm",
                 "colIndex": 14,
                 "name_es": "Estaño",
                 "name_en": "Tin",
@@ -2025,6 +2177,7 @@
                 "abundance": 4.0E-7
             },
             {
+                "group": "mtl",
                 "colIndex": 15,
                 "name_es": "Antimonio",
                 "name_en": "Antimony",
@@ -2067,6 +2220,7 @@
                 "abundance": 4.0E-8
             },
             {
+                "group": "mtl",
                 "colIndex": 16,
                 "name_es": "Teluro",
                 "name_en": "Tellurium",
@@ -2109,6 +2263,7 @@
                 "abundance": 9.0E-7
             },
             {
+                "group": "hlg",
                 "colIndex": 17,
                 "name_es": "Yodo",
                 "name_en": "Iodine",
@@ -2151,6 +2306,7 @@
                 "abundance": 1.00E-7
             },
             {
+                "group": "gsn",
                 "colIndex": 18,
                 "name_es": "Xenon",
                 "name_en": "Xenon",
@@ -2195,6 +2351,7 @@
         ],
         [
             {
+                "group": "amt",
                 "colIndex": 1,
                 "name_es": "Cesio",
                 "name_en": "Caesium",
@@ -2238,6 +2395,7 @@
                 "abundance": 8.0E-8
             },
             {
+                "group": "aem",
                 "colIndex": 2,
                 "name_es": "Bario",
                 "name_en": "Barium",
@@ -2281,6 +2439,7 @@
                 "abundance": 1.00E-6
             },
             {
+                "group": "ltn",
                 "colIndex": 3,
                 "name_es": "Lutecio",
                 "name_en": "Lutetium",
@@ -2324,6 +2483,7 @@
                 "abundance": 1.00E-8
             },
             {
+                "group": "tmt",
                 "colIndex": 4,
                 "name_es": "Hafnio",
                 "name_en": "Hafnium",
@@ -2367,6 +2527,7 @@
                 "abundance": 7.0E-8
             },
             {
+                "group": "tmt",
                 "colIndex": 5,
                 "name_es": "Tantalo",
                 "name_en": "Tantalum",
@@ -2410,6 +2571,7 @@
                 "abundance": 8.0E-9
             },
             {
+                "group": "tmt",
                 "colIndex": 6,
                 "name_es": "Wolframio",
                 "name_en": "Tungsten",
@@ -2453,6 +2615,7 @@
                 "abundance": 5.0E-8
             },
             {
+                "group": "tmt",
                 "colIndex": 7,
                 "name_es": "Renio",
                 "name_en": "Rhenium",
@@ -2496,6 +2659,7 @@
                 "abundance": 2.0E-8
             },
             {
+                "group": "tmt",
                 "colIndex": 8,
                 "name_es": "Osmio",
                 "name_en": "Osmium",
@@ -2539,6 +2703,7 @@
                 "abundance": 3.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 9,
                 "name_es": "Iridio",
                 "name_en": "Iridium",
@@ -2582,6 +2747,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 10,
                 "name_es": "Platino",
                 "name_en": "Platinum",
@@ -2625,6 +2791,7 @@
                 "abundance": 5.0E-7
             },
             {
+                "group": "tmt",
                 "colIndex": 11,
                 "name_es": "Oro",
                 "name_en": "Gold",
@@ -2668,6 +2835,7 @@
                 "abundance": 6.0E-8
             },
             {
+                "group": "tmt",
                 "colIndex": 12,
                 "name_es": "Mercurio",
                 "name_en": "Mercury",
@@ -2711,6 +2879,7 @@
                 "abundance": 1.00E-7
             },
             {
+                "group": "pbm",
                 "colIndex": 13,
                 "name_es": "Talio",
                 "name_en": "Thallium",
@@ -2754,6 +2923,7 @@
                 "abundance": 5.0E-8
             },
             {
+                "group": "pbm",
                 "colIndex": 14,
                 "name_es": "Plomo",
                 "name_en": "Lead",
@@ -2797,6 +2967,7 @@
                 "abundance": 1.00E-6
             },
             {
+                "group": "pbm",
                 "colIndex": 15,
                 "name_es": "Bismuto",
                 "name_en": "Bismuth",
@@ -2840,6 +3011,7 @@
                 "abundance": 7.0E-8
             },
             {
+                "group": "mtl",
                 "colIndex": 16,
                 "name_es": "Polonio",
                 "name_en": "Polonium",
@@ -2883,6 +3055,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "hlg",
                 "colIndex": 17,
                 "name_es": "Astato",
                 "name_en": "Astatine",
@@ -2926,6 +3099,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "gsn",
                 "colIndex": 18,
                 "name_es": "Radon",
                 "name_en": "Radon",
@@ -2971,6 +3145,7 @@
         ],
         [
             {
+                "group": "amt",
                 "colIndex": 1,
                 "name_es": "Francio",
                 "name_en": "Francium",
@@ -3015,6 +3190,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "aem",
                 "colIndex": 2,
                 "name_es": "Radio",
                 "name_en": "Radium",
@@ -3059,6 +3235,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "act",
                 "colIndex": 3,
                 "name_es": "Laurencio",
                 "name_en": "Lawrencium",
@@ -3097,6 +3274,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 4,
                 "name_es": "Rutherfordio",
                 "name_en": "Rutherfordium",
@@ -3129,6 +3307,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 5,
                 "name_es": "Dubnio",
                 "name_en": "Dubnium",
@@ -3161,6 +3340,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 6,
                 "name_es": "Seaborgio",
                 "name_en": "Seaborgium",
@@ -3193,6 +3373,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 7,
                 "name_es": "Bohrio",
                 "name_en": "Bohrium",
@@ -3225,6 +3406,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 8,
                 "name_es": "Hassio",
                 "name_en": "Hassium",
@@ -3257,6 +3439,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 9,
                 "name_es": "Meitnerio",
                 "name_en": "Meitnerium",
@@ -3289,6 +3472,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 10,
                 "name_es": "Darmstatio",
                 "name_en": "Darmstadium",
@@ -3321,6 +3505,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 11,
                 "name_es": "Roentgenio",
                 "name_en": "Roentgenium",
@@ -3353,6 +3538,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "tmt",
                 "colIndex": 12,
                 "name_es": "Copernicio",
                 "name_en": "Copernicium",
@@ -3385,6 +3571,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "pbm",
                 "colIndex": 13,
                 "name_es": "Nihonio",
                 "name_en": "Nihonium",
@@ -3417,6 +3604,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "pbm",
                 "colIndex": 14,
                 "name_es": "Flerovio",
                 "name_en": "Flerovium",
@@ -3449,6 +3637,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "pbm",
                 "colIndex": 15,
                 "name_es": "Moscovio",
                 "name_en": "Moscovium",
@@ -3481,6 +3670,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "pbm",
                 "colIndex": 16,
                 "name_es": "Livermonio",
                 "name_en": "Livermonium",
@@ -3513,6 +3703,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "hlg",
                 "colIndex": 17,
                 "name_es": "Teneso",
                 "name_en": "Tennessine",
@@ -3545,6 +3736,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "gsn",
                 "colIndex": 18,
                 "name_es": "Oganeson",
                 "name_en": "Oganesson",
@@ -3579,6 +3771,7 @@
         ],
         [
             {
+                "group": "ltn",
                 "colIndex": 3,
                 "name_es": "Lantano",
                 "name_en": "Lanthanum",
@@ -3622,6 +3815,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "ltn",
                 "colIndex": 4,
                 "name_es": "Cerio",
                 "name_en": "Cerium",
@@ -3665,6 +3859,7 @@
                 "abundance": 1.00E-6
             },
             {
+                "group": "ltn",
                 "colIndex": 5,
                 "name_es": "Preaseodimio",
                 "name_en": "Praseodymium",
@@ -3708,6 +3903,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "ltn",
                 "colIndex": 6,
                 "name_es": "Neodimio",
                 "name_en": "Neodymium",
@@ -3751,6 +3947,7 @@
                 "abundance": 1.00E-6
             },
             {
+                "group": "ltn",
                 "colIndex": 7,
                 "name_es": "Prometio",
                 "name_en": "Promethium",
@@ -3794,6 +3991,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "ltn",
                 "colIndex": 8,
                 "name_es": "Samario",
                 "name_en": "Samarium",
@@ -3837,6 +4035,7 @@
                 "abundance": 5.0E-7
             },
             {
+                "group": "ltn",
                 "colIndex": 9,
                 "name_es": "Europio",
                 "name_en": "Europium",
@@ -3880,6 +4079,7 @@
                 "abundance": 5.0E-8
             },
             {
+                "group": "ltn",
                 "colIndex": 10,
                 "name_es": "Gadolinio",
                 "name_en": "Gadolinium",
@@ -3923,6 +4123,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "ltn",
                 "colIndex": 11,
                 "name_es": "Terbio",
                 "name_en": "Terbium",
@@ -3966,6 +4167,7 @@
                 "abundance": 5.0E-8
             },
             {
+                "group": "ltn",
                 "colIndex": 12,
                 "name_es": "Disprosio",
                 "name_en": "Dysprosium",
@@ -4009,6 +4211,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "ltn",
                 "colIndex": 13,
                 "name_es": "Holmio",
                 "name_en": "Holmium",
@@ -4052,6 +4255,7 @@
                 "abundance": 5.0E-8
             },
             {
+                "group": "ltn",
                 "colIndex": 14,
                 "name_es": "Erbio",
                 "name_en": "Erbium",
@@ -4095,6 +4299,7 @@
                 "abundance": 2.0E-7
             },
             {
+                "group": "ltn",
                 "colIndex": 15,
                 "name_es": "Tulio",
                 "name_en": "Thulium",
@@ -4138,6 +4343,7 @@
                 "abundance": 1.00E-8
             },
             {
+                "group": "ltn",
                 "colIndex": 16,
                 "name_es": "Iterbio",
                 "name_en": "Ytterbium",
@@ -4183,6 +4389,7 @@
         ],
         [
             {
+                "group": "act",
                 "colIndex": 3,
                 "name_es": "Actinio",
                 "name_en": "Actinium",
@@ -4227,6 +4434,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "act",
                 "colIndex": 4,
                 "name_es": "Torio",
                 "name_en": "Thorium",
@@ -4271,6 +4479,7 @@
                 "abundance": 4.0E-8
             },
             {
+                "group": "act",
                 "colIndex": 5,
                 "name_es": "Protactinio",
                 "name_en": "Protactinium",
@@ -4315,6 +4524,7 @@
                 "abundance": 0.00
             },
             {
+                "group": "act",
                 "colIndex": 6,
                 "name_es": "Uranio",
                 "name_en": "Uranium",
@@ -4359,6 +4569,7 @@
                 "abundance": 2.0E-8
             },
             {
+                "group": "act",
                 "colIndex": 7,
                 "name_es": "Neptunio",
                 "name_en": "Neptunium",
@@ -4403,6 +4614,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 8,
                 "name_es": "Plutonio",
                 "name_en": "Plutonium",
@@ -4447,6 +4659,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 9,
                 "name_es": "Americio",
                 "name_en": "Americium",
@@ -4491,6 +4704,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 10,
                 "name_es": "Curio",
                 "name_en": "Curium",
@@ -4535,6 +4749,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 11,
                 "name_es": "Berquelio",
                 "name_en": "Berkelium",
@@ -4573,6 +4788,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 12,
                 "name_es": "Californio",
                 "name_en": "CAlifornium",
@@ -4611,6 +4827,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 13,
                 "name_es": "Einstenio",
                 "name_en": "Einstenium",
@@ -4649,6 +4866,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 14,
                 "name_es": "Fermio",
                 "name_en": "Fermium",
@@ -4687,6 +4905,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 15,
                 "name_es": "Mendelevio",
                 "name_en": "Mendelevium",
@@ -4725,6 +4944,7 @@
                 "abundance": 0
             },
             {
+                "group": "act",
                 "colIndex": 16,
                 "name_es": "Nobelio",
                 "name_en": "Nobelium",

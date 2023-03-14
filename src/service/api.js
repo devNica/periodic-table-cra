@@ -1,7 +1,7 @@
 import elements from './elements.json'
 
 
-const serializeElementsOfPeriodicTable =  () => {
+const serializeElementsOfPeriodicTable =   () => {
 
     return elements.rows.map((row)=>{
         const c = []
@@ -12,11 +12,13 @@ const serializeElementsOfPeriodicTable =  () => {
                 colIndex: r.colIndex,
                 symbol: r.symbol,
                 active: true,
+                group: r.group,
                 bgColor: r.bgColor,
                 txColor: r.txColor,
                 nameEs: r.name_es,
                 atomicNumber: r.atomicNumber,
-                atomicWeight: r.weight.toFixed(2)
+                atomicWeight: r.weight.toFixed(2),
+                catg: r?.type || ""   
             })
         })
 
@@ -25,8 +27,10 @@ const serializeElementsOfPeriodicTable =  () => {
             if (!c.some(r => r.colIndex === s)) {
                 c.push({
                     colIndex: s,
+                    lightenUp: false,
                     symbol: "",
-                    active: false
+                    active: false,
+                    catg: ""
                 })
             }
         })

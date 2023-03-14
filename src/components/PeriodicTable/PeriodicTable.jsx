@@ -1,21 +1,24 @@
 import './periodictable.css'
-import { serializeElementsOfPeriodicTable } from '../../service/api'
 import Element from '../elements/Element'
 
+import { useTableHook } from '../../hooks'
 
 const PeriodicTable = () => {
 
-    const render = serializeElementsOfPeriodicTable().map((row) => (
-        row.map((elem, index)=>(
-           <Element 
-                item={elem} 
+    const { rows } = useTableHook()
+
+    const render = rows.map((row) => (
+        row.map((elem, index) => (
+            <Element
+                item={elem}
                 index={index}
             />
         ))
     ))
 
-    return(
-        <div className="periodic-table">
+    return (
+        <div className="table-wrapper">
+            <div className='hideme'></div>
             {render}
         </div>
     )

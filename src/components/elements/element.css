@@ -1,5 +1,4 @@
-
-.element{
+.element {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,28 +8,100 @@
     font-family: 'Golos Text', sans-serif;
 }
 
-.element-active{
+.element-active {
     border: 1px solid gray;
     border-radius: 2px;
     cursor: pointer;
     font-weight: 400;
 }
 
-.atomic-number{
+.atomic-number {
     position: relative;
     top: 6px;
     left: -15px;
     font-size: 7px;
 }
 
-.atomic-weight{
+.atomic-weight {
     position: relative;
     top: -2px;
     right: -11px;
     font-size: 7px;
 }
 
-.element-name{
+.element-name {
     font-size: 7px;
     margin-bottom: 0.3rem;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+
+.element.catg{
+    border: 3px solid rgb(240, 239, 234);
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Golos Text', sans-serif;
+    width: 32px;
+    height: 32px;
+}
+
+.element.catg .element-name{
+    font-size: 10px;
+}
+
+
+.catg-gsn:hover~ :not(.element.element.gsn) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-hlg:hover~ :not(.element.element.hlg) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-nmt:hover~ :not(.element.element.nmt) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-mtl:hover~ :not(.element.element.mtl) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-pbm:hover~ :not(.element.element.pbm) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-tmt:hover~ :not(.element.element.tmt) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-aem:hover~ :not(.element.element.aem) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-amt:hover~ :not(.element.element.amt) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-ltn:hover~ :not(.element.element.ltn) {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.catg-act:hover~ :not(.element.element.act) {
+    background-color: aliceblue !important;
+    color: black !important;
 }

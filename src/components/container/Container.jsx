@@ -7,10 +7,8 @@ const Container = () => {
 
     return (
         <div className="container">
-            <div className="table-wrapper">
-                <PeriodicTable />
-            </div>
-            <SideBar/>
+            <PeriodicTable />
+            <SideBar />
         </div>
 
     )

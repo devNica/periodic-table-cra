@@ -2,61 +2,61 @@
     {
         "type_es": "Gases nobles",
         "type_en": "Noble gases",
-        "group": 1,
+        "group": "gsn",
         "color": "#006a36"
     },
     {
         "type_es": "Halogenos",
         "type_en": "Halogens",
-        "group": 2,
+        "group": "hlg",
         "color": "#a2b427"
     },
     {
         "type_es": "No metales",
         "type_en": "Reactive Nonmetals",
-        "group": 3,
+        "group": "nmt",
         "color": "#f58021"
     },
     {
         "type_es": "Metaloides",
         "type_en": "Metalloids",
-        "group": 4,
+        "group": "mtl",
         "color": "#ed1944"
     },
     {
         "type_es": "Metales del Bloque P",
         "type_en": "P Block Metals",
-        "group": 5,
+        "group": "pbm",
         "color": "#781e77"
     },
     {
         "type_es": "Metales de transicion",
         "type_en": "Transition Metals",
-        "group": 6,
+        "group": "tmt",
         "color": "#0088ce"
     },
     {
         "type_es": "Metales Alcalinoterreos",
         "type_en": "Alkaline Earth Metals",
-        "group": 7,
+        "group": "aem",
         "color": "#fdba12"
     },
     {
         "type_es": "Metales Alcalinos",
         "type_en": "Alkali Metals",
-        "group": 8,
+        "group": "amt",
         "color": "#002a4e"
     },
     {
         "type_es": "Lantanidos",
         "type_en": "Lanthanoids",
-        "group": 9,
+        "group": "ltn",
         "color": "#cbd48e"
     },
     {
         "type_es": "Actinidos",
         "type_en": "Actinoids",
-        "group": 10,
+        "group": "act",
         "color": "#67a484"
     }
 ]

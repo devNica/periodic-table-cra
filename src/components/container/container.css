@@ -1,4 +1,4 @@
-.container{
+.container {
     margin-top: 3rem;
     display: flex;
     flex-direction: row;
@@ -6,7 +6,3 @@
     align-content: center;
 }
 
-.table-wrapper{
-    padding: 1rem;
-    border: 1px solid gray;
-}

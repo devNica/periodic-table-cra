@@ -22,3 +22,16 @@
     font-family: 'Golos Text', sans-serif;
     color: aliceblue;
 }
+
+
+
+
+/* .element-active~ .nmt{
+    background-color: aliceblue !important;
+    color: black !important;
+} */
+
+/* .element-active~ :not(.act){
+    background-color: aliceblue !important;
+    color: black !important;
+} */
