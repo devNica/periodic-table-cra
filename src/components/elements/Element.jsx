@@ -1,11 +1,12 @@
 import './element.css'
+import { Link } from 'react-router-dom'
 
 
 const Element = ({ item, index }) => {
 
     return (
 
-        <div
+        <Link to={`element/${item.atomicNumber}`}
             className={
 
                 item.catg !== "" ? `element catg catg-${item.group}` :
@@ -25,7 +26,9 @@ const Element = ({ item, index }) => {
                         <span className="atomic-weight">
                             {item.atomicWeight}
                         </span>
+
                         {item.symbol}
+
 
                     </> : null
             }
@@ -34,7 +37,7 @@ const Element = ({ item, index }) => {
                 {item.nameEs}
             </span>
 
-        </div>
+        </Link>
     )
 }
 

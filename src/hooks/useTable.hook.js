@@ -1,13 +1,9 @@
-import { useContext } from "react"
-import TableContext from "../context/TableContext"
+import { useSelector } from "react-redux"
 
+const useGetRows = () => useSelector(state=>state.chemical.rows)
+const useGetElement = () => useSelector(state=>state.chemical.element)
 
-const useTableHook = () => {
-    const context = useContext(TableContext)
-    
-    if (context === undefined) throw new Error("Failed Context")
-
-    return context
+export {
+    useGetRows,
+    useGetElement
 }
-
-export default useTableHook

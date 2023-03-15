@@ -1,13 +1,19 @@
 import './App.css';
 import Container from './components/container/Container';
-import { TableProvider } from './context/TableContext';
+import ChemicalElementDetail from './components/elements/ChemicalElementDetail';
+import store from './redux/store';
+import { Provider } from 'react-redux';
+import { Route, Routes } from 'react-router-dom'
 
 function App() {
   return (
     <div className="App">
-      <TableProvider>
-        <Container />
-      </TableProvider>
+      <Provider store={store}>
+        <Routes>
+          <Route path='/' element={<Container/>}/>
+          <Route path='/element/:id' element={<ChemicalElementDetail/>}/>
+        </Routes>
+      </Provider>
 
     </div>
   );

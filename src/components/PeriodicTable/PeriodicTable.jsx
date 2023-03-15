@@ -1,11 +1,11 @@
 import './periodictable.css'
 import Element from '../elements/Element'
 
-import { useTableHook } from '../../hooks'
+import { useGetRows } from '../../hooks/useTable.hook'
 
 const PeriodicTable = () => {
 
-    const { rows } = useTableHook()
+    const rows = useGetRows()
 
     const render = rows.map((row) => (
         row.map((elem, index) => (

@@ -1,0 +1,125 @@
+.card {
+    width: 340px;
+    height: 360px;
+    border: 2px solid white;
+    border-radius: 4px;
+    background-color: rgb(47, 50, 57);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card .card-header {
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+
+.card-header .element-symbol {
+    width: 20%;
+    border: 3px solid aliceblue;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: center;
+    height: 70px;
+}
+
+.card-header .element-name {
+    width: 80%;
+    background-color: rgb(161, 169, 181);
+    color: rgb(62, 60, 60);
+    height: 70px;
+    border: 3px solid aliceblue;
+    border-radius: 4px;
+    font-family: 'Barlow Condensed', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
+}
+
+.card .card-body {
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.card-body .particle-detail {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.particle-detail .neutrons {
+    width: 36px;
+    height: 36px;
+    background-color: rgb(255, 185, 71);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.particle-detail .protons {
+    width: 36px;
+    height: 36px;
+    background-color: rgb(250, 76, 93);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.particle-detail .electrons {
+    width: 36px;
+    height: 36px;
+    background-color: rgb(76, 198, 250);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.particle-detail .particle-name {
+    color: aliceblue;
+    margin-left: 0.5rem;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1.4rem;
+
+}
+
+
+.card-footer .other-char {
+    margin: 10px 10px;
+    border: 2px solid rgb(195, 195, 195);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9px;
+    color: aliceblue;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1.4rem;
+}
+
+.other-char .w-value {
+    margin-left: 0.5rem;
+}

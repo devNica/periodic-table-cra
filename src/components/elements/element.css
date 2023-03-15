@@ -11,8 +11,15 @@
 .element-active {
     border: 2px solid rgb(197, 197, 197);
     border-radius: 2px;
+    text-decoration: none;
     cursor: pointer;
     font-weight: 400;
+    transition: 0.6s all ease-in;
+}
+
+.element.element-active:hover{
+    background-color: rgb(228, 236, 243) !important;
+    color: black !important;
 }
 
 .atomic-number {
@@ -27,6 +34,11 @@
     top: -2px;
     right: -11px;
     font-size: 7px;
+}
+
+
+.atomic-link:hover{
+    color: black !important;
 }
 
 .element-name {
@@ -49,6 +61,7 @@
     font-family: 'Golos Text', sans-serif;
     width: 32px;
     height: 32px;
+    text-decoration: none;
 }
 
 .element.catg .element-name{
