@@ -140,7 +140,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 75
+                "abundance": 75,
+                "atomicStructure": {
+                    "electrons": 1,
+                    "neutrons": 0,
+                    "protons": 1
+                }
             },
             {
                 "group": "gsn",
@@ -173,7 +178,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 23
+                "abundance": 23,
+                "atomicStructure": {
+                    "electrons": 2,
+                    "neutrons": 2,
+                    "protons": 2
+                }
             }
         ],
         [
@@ -215,7 +225,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 6.0E-7
+                "abundance": 6.0E-7,
+                "atomicStructure": {
+                    "electrons": 3,
+                    "neutrons": 4,
+                    "protons": 3
+                }
             },
             {
                 "group": "aem",
@@ -255,7 +270,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-7
+                "abundance": 1.00E-7,
+                "atomicStructure": {
+                    "electrons": 4,
+                    "neutrons": 5,
+                    "protons": 4
+                }
             },
             {
                 "group": "mtl",
@@ -295,7 +315,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-7
+                "abundance": 1.00E-7,
+                "atomicStructure": {
+                    "electrons": 5,
+                    "neutrons": 6,
+                    "protons": 5
+                }
             },
             {
                 "group": "nmt",
@@ -329,7 +354,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.5
+                "abundance": 0.5,
+                "atomicStructure": {
+                    "electrons": 6,
+                    "neutrons": 6,
+                    "protons": 6
+                }
             },
             {
                 "group": "nmt",
@@ -369,7 +399,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.1
+                "abundance": 0.1,
+                "atomicStructure": {
+                    "electrons": 7,
+                    "neutrons": 7,
+                    "protons": 7
+                }
             },
             {
                 "group": "nmt",
@@ -409,7 +444,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00
+                "abundance": 1.00,
+                "atomicStructure": {
+                    "electrons": 8,
+                    "neutrons": 8,
+                    "protons": 8
+                }
             },
             {
                 "group": "hlg",
@@ -449,7 +489,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.000040
+                "abundance": 0.000040,
+                "atomicStructure": {
+                    "electrons": 9,
+                    "neutrons": 10,
+                    "protons": 9
+                }
             },
             {
                 "group": "gsn",
@@ -489,7 +534,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.13
+                "abundance": 0.13,
+                "atomicStructure": {
+                    "electrons": 10,
+                    "neutrons": 10,
+                    "protons": 10
+                }
             }
         ],
         [
@@ -532,7 +582,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.0020
+                "abundance": 0.0020,
+                "atomicStructure": {
+                    "electrons": 11,
+                    "neutrons": 12,
+                    "protons": 11
+                }
             },
             {
                 "group": "aem",
@@ -573,7 +628,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.060
+                "abundance": 0.060,
+                "atomicStructure": {
+                    "electrons": 12,
+                    "neutrons": 12,
+                    "protons": 12
+                }
             },
             {
                 "group": "pbm",
@@ -614,7 +674,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.0050
+                "abundance": 0.0050,
+                "atomicStructure": {
+                    "electrons": 13,
+                    "neutrons": 14,
+                    "protons": 13
+                }
             },
             {
                 "group": "mtl",
@@ -655,7 +720,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.070
+                "abundance": 0.070,
+                "atomicStructure": {
+                    "electrons": 14,
+                    "neutrons": 14,
+                    "protons": 14
+                }
             },
             {
                 "group": "nmt",
@@ -696,7 +766,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00070
+                "abundance": 0.00070,
+                "atomicStructure": {
+                    "electrons": 15,
+                    "neutrons": 16,
+                    "protons": 15
+                }
             },
             {
                 "group": "nmt",
@@ -737,7 +812,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.050
+                "abundance": 0.050,
+                "atomicStructure": {
+                    "electrons": 16,
+                    "neutrons": 16,
+                    "protons": 16
+                }
             },
             {
                 "group": "hlg",
@@ -778,7 +858,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.000100
+                "abundance": 0.000100,
+                "atomicStructure": {
+                    "electrons": 17,
+                    "neutrons": 18,
+                    "protons": 17
+                }
             },
             {
                 "group": "gsn",
@@ -819,7 +904,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.020
+                "abundance": 0.020,
+                "atomicStructure": {
+                    "electrons": 18,
+                    "neutrons": 22,
+                    "protons": 18
+                }
             }
         ],
         [
@@ -863,7 +953,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00030
+                "abundance": 0.00030,
+                "atomicStructure": {
+                    "electrons": 19,
+                    "neutrons": 20,
+                    "protons": 19
+                }
             },
             {
                 "group": "aem",
@@ -905,7 +1000,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.0070
+                "abundance": 0.0070,
+                "atomicStructure": {
+                    "electrons": 20,
+                    "neutrons": 20,
+                    "protons": 20
+                }
             },
             {
                 "group": "tmt",
@@ -947,7 +1047,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 3.0E-6
+                "abundance": 3.0E-6,
+                "atomicStructure": {
+                    "electrons": 21,
+                    "neutrons": 24,
+                    "protons": 21
+                }
             },
             {
                 "group": "tmt",
@@ -989,7 +1094,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00030
+                "abundance": 0.00030,
+                "atomicStructure": {
+                    "electrons": 22,
+                    "neutrons": 26,
+                    "protons": 22
+                }
             },
             {
                 "group": "tmt",
@@ -1031,7 +1141,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.000100
+                "abundance": 0.000100,
+                "atomicStructure": {
+                    "electrons": 23,
+                    "neutrons": 28,
+                    "protons": 23
+                }
             },
             {
                 "group": "tmt",
@@ -1073,7 +1188,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.0015
+                "abundance": 0.0015,
+                "atomicStructure": {
+                    "electrons": 24,
+                    "neutrons": 28,
+                    "protons": 24
+                }
             },
             {
                 "group": "tmt",
@@ -1115,7 +1235,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00080
+                "abundance": 0.00080,
+                "atomicStructure": {
+                    "electrons": 25,
+                    "neutrons": 30,
+                    "protons": 25
+                }
             },
             {
                 "group": "tmt",
@@ -1157,7 +1282,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.11
+                "abundance": 0.11,
+                "atomicStructure": {
+                    "electrons": 26,
+                    "neutrons": 30,
+                    "protons": 26
+                }
             },
             {
                 "group": "tmt",
@@ -1199,7 +1329,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00030
+                "abundance": 0.00030,
+                "atomicStructure": {
+                    "electrons": 27,
+                    "neutrons": 32,
+                    "protons": 27
+                }
             },
             {
                 "group": "tmt",
@@ -1241,7 +1376,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.0060
+                "abundance": 0.0060,
+                "atomicStructure": {
+                    "electrons": 28,
+                    "neutrons": 31,
+                    "protons": 28
+                }
             },
             {
                 "group": "tmt",
@@ -1283,7 +1423,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 6.0E-6
+                "abundance": 6.0E-6,
+                "atomicStructure": {
+                    "electrons": 29,
+                    "neutrons": 35,
+                    "protons": 29
+                }
             },
             {
                 "group": "tmt",
@@ -1325,7 +1470,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.000030
+                "abundance": 0.000030,
+                "atomicStructure": {
+                    "electrons": 30,
+                    "neutrons": 35,
+                    "protons": 30
+                }
             },
             {
                 "group": "pbm",
@@ -1367,7 +1517,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-6
+                "abundance": 1.00E-6,
+                "atomicStructure": {
+                    "electrons": 31,
+                    "neutrons": 39,
+                    "protons": 31
+                }
             },
             {
                 "group": "mtl",
@@ -1409,7 +1564,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.000020
+                "abundance": 0.000020,
+                "atomicStructure": {
+                    "electrons": 32,
+                    "neutrons": 41,
+                    "protons": 32
+                }
             },
             {
                 "group": "mtl",
@@ -1445,7 +1605,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 8.0E-7
+                "abundance": 8.0E-7,
+                "atomicStructure": {
+                    "electrons": 32,
+                    "neutrons": 42,
+                    "protons": 32
+                }
             },
             {
                 "group": "nmt",
@@ -1487,7 +1652,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 3.0E-6
+                "abundance": 3.0E-6,
+                "atomicStructure": {
+                    "electrons": 34,
+                    "neutrons": 45,
+                    "protons": 34
+                }
             },
             {
                 "group": "hlg",
@@ -1529,7 +1699,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 7.0E-7
+                "abundance": 7.0E-7,
+                "atomicStructure": {
+                    "electrons": 35,
+                    "neutrons": 45,
+                    "protons": 35
+                }
             },
             {
                 "group": "gsn",
@@ -1571,7 +1746,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 4.0E-6
+                "abundance": 4.0E-6,
+                "atomicStructure": {
+                    "electrons": 36,
+                    "neutrons": 48,
+                    "protons": 36
+                }
             }
         ],
         [
@@ -1616,7 +1796,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-6
+                "abundance": 1.00E-6,
+                "atomicStructure": {
+                    "electrons": 37,
+                    "neutrons": 48,
+                    "protons": 37
+                }
             },
             {
                 "group": "aem",
@@ -1659,7 +1844,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 4.0E-6
+                "abundance": 4.0E-6,
+                "atomicStructure": {
+                    "electrons": 38,
+                    "neutrons": 50,
+                    "protons": 38
+                }
             },
             {
                 "group": "tmt",
@@ -1702,7 +1892,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 7.0E-7
+                "abundance": 7.0E-7,
+                "atomicStructure": {
+                    "electrons": 39,
+                    "neutrons": 50,
+                    "protons": 39
+                }
             },
             {
                 "group": "tmt",
@@ -1745,7 +1940,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-6
+                "abundance": 5.0E-6,
+                "atomicStructure": {
+                    "electrons": 40,
+                    "neutrons": 51,
+                    "protons": 40
+                }
             },
             {
                 "group": "tmt",
@@ -1788,7 +1988,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 41,
+                    "neutrons": 52,
+                    "protons": 41
+                }
             },
             {
                 "group": "tmt",
@@ -1831,7 +2036,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-7
+                "abundance": 5.0E-7,
+                "atomicStructure": {
+                    "electrons": 42,
+                    "neutrons": 54,
+                    "protons": 42
+                }
             },
             {
                 "group": "tmt",
@@ -1874,7 +2084,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 43,
+                    "neutrons": 55,
+                    "protons": 43
+                }
             },
             {
                 "group": "tmt",
@@ -1917,7 +2132,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 4.0E-7
+                "abundance": 4.0E-7,
+                "atomicStructure": {
+                    "electrons": 44,
+                    "neutrons": 57,
+                    "protons": 44
+                }
             },
             {
                 "group": "tmt",
@@ -1960,7 +2180,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 6.0E-8
+                "abundance": 6.0E-8,
+                "atomicStructure": {
+                    "electrons": 45,
+                    "neutrons": 58,
+                    "protons": 45
+                }
             },
             {
                 "group": "tmt",
@@ -2002,7 +2227,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 46,
+                    "neutrons": 60,
+                    "protons": 46
+                }
             },
             {
                 "group": "tmt",
@@ -2045,7 +2275,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 6.0E-8
+                "abundance": 6.0E-8,
+                "atomicStructure": {
+                    "electrons": 47,
+                    "neutrons": 61,
+                    "protons": 47
+                }
             },
             {
                 "group": "tmt",
@@ -2088,7 +2323,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 48,
+                    "neutrons": 64,
+                    "protons": 48
+                }
             },
             {
                 "group": "pbm",
@@ -2131,7 +2371,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 3.0E-8
+                "abundance": 3.0E-8,
+                "atomicStructure": {
+                    "electrons": 49,
+                    "neutrons": 66,
+                    "protons": 49
+                }
             },
             {
                 "group": "pbm",
@@ -2174,7 +2419,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 4.0E-7
+                "abundance": 4.0E-7,
+                "atomicStructure": {
+                    "electrons": 50,
+                    "neutrons": 69,
+                    "protons": 50
+                }
             },
             {
                 "group": "mtl",
@@ -2217,7 +2467,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 4.0E-8
+                "abundance": 4.0E-8,
+                "atomicStructure": {
+                    "electrons": 51,
+                    "neutrons": 71,
+                    "protons": 51
+                }
             },
             {
                 "group": "mtl",
@@ -2260,7 +2515,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 9.0E-7
+                "abundance": 9.0E-7,
+                "atomicStructure": {
+                    "electrons": 52,
+                    "neutrons": 76,
+                    "protons": 52
+                }
             },
             {
                 "group": "hlg",
@@ -2303,7 +2563,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-7
+                "abundance": 1.00E-7,
+                "atomicStructure": {
+                    "electrons": 53,
+                    "neutrons": 74,
+                    "protons": 53
+                }
             },
             {
                 "group": "gsn",
@@ -2346,7 +2611,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-6
+                "abundance": 1.00E-6,
+                "atomicStructure": {
+                    "electrons": 54,
+                    "neutrons": 77,
+                    "protons": 54
+                }
             }
         ],
         [
@@ -2392,7 +2662,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 8.0E-8
+                "abundance": 8.0E-8,
+                "atomicStructure": {
+                    "electrons": 55,
+                    "neutrons": 78,
+                    "protons": 55
+                }
             },
             {
                 "group": "aem",
@@ -2436,7 +2711,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-6
+                "abundance": 1.00E-6,
+                "atomicStructure": {
+                    "electrons": 56,
+                    "neutrons": 81,
+                    "protons": 56
+                }
             },
             {
                 "group": "ltn",
@@ -2480,7 +2760,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-8
+                "abundance": 1.00E-8,
+                "atomicStructure": {
+                    "electrons": 71,
+                    "neutrons": 104,
+                    "protons": 71
+                }
             },
             {
                 "group": "tmt",
@@ -2524,7 +2809,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 7.0E-8
+                "abundance": 7.0E-8,
+                "atomicStructure": {
+                    "electrons": 72,
+                    "neutrons": 105,
+                    "protons": 72
+                }
             },
             {
                 "group": "tmt",
@@ -2568,7 +2858,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 8.0E-9
+                "abundance": 8.0E-9,
+                "atomicStructure": {
+                    "electrons": 73,
+                    "neutrons": 108,
+                    "protons": 73
+                }
             },
             {
                 "group": "tmt",
@@ -2612,7 +2907,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-8
+                "abundance": 5.0E-8,
+                "atomicStructure": {
+                    "electrons": 74,
+                    "neutrons": 110,
+                    "protons": 74
+                }
             },
             {
                 "group": "tmt",
@@ -2656,7 +2956,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-8
+                "abundance": 2.0E-8,
+                "atomicStructure": {
+                    "electrons": 75,
+                    "neutrons": 111,
+                    "protons": 75
+                }
             },
             {
                 "group": "tmt",
@@ -2700,7 +3005,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 3.0E-7
+                "abundance": 3.0E-7,
+                "atomicStructure": {
+                    "electrons": 76,
+                    "neutrons": 114,
+                    "protons": 76
+                }
             },
             {
                 "group": "tmt",
@@ -2744,7 +3054,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 77,
+                    "neutrons": 115,
+                    "protons": 77
+                }
             },
             {
                 "group": "tmt",
@@ -2788,7 +3103,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-7
+                "abundance": 5.0E-7,
+                "atomicStructure": {
+                    "electrons": 78,
+                    "neutrons": 117,
+                    "protons": 78
+                }
             },
             {
                 "group": "tmt",
@@ -2832,7 +3152,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 6.0E-8
+                "abundance": 6.0E-8,
+                "atomicStructure": {
+                    "electrons": 79,
+                    "neutrons": 118,
+                    "protons": 79
+                }
             },
             {
                 "group": "tmt",
@@ -2876,7 +3201,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-7
+                "abundance": 1.00E-7,
+                "atomicStructure": {
+                    "electrons": 80,
+                    "neutrons": 121,
+                    "protons": 80
+                }
             },
             {
                 "group": "pbm",
@@ -2920,7 +3250,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-8
+                "abundance": 5.0E-8,
+                "atomicStructure": {
+                    "electrons": 81,
+                    "neutrons": 123,
+                    "protons": 81
+                }
             },
             {
                 "group": "pbm",
@@ -2964,7 +3299,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-6
+                "abundance": 1.00E-6,
+                "atomicStructure": {
+                    "electrons": 82,
+                    "neutrons": 126,
+                    "protons": 82
+                }
             },
             {
                 "group": "pbm",
@@ -3008,7 +3348,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 7.0E-8
+                "abundance": 7.0E-8,
+                "atomicStructure": {
+                    "electrons": 83,
+                    "neutrons": 126,
+                    "protons": 83
+                }
             },
             {
                 "group": "mtl",
@@ -3052,7 +3397,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 84,
+                    "neutrons": 125,
+                    "protons": 84
+                }
             },
             {
                 "group": "hlg",
@@ -3096,7 +3446,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 85,
+                    "neutrons": 125,
+                    "protons": 85
+                }
             },
             {
                 "group": "gsn",
@@ -3140,7 +3495,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 86,
+                    "neutrons": 136,
+                    "protons": 86
+                }
             }
         ],
         [
@@ -3187,7 +3547,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 87,
+                    "neutrons": 136,
+                    "protons": 87
+                }
             },
             {
                 "group": "aem",
@@ -3232,7 +3597,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 88,
+                    "neutrons": 138,
+                    "protons": 88
+                }
             },
             {
                 "group": "act",
@@ -3271,7 +3641,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 103,
+                    "neutrons": 163,
+                    "protons": 103
+                }
             },
             {
                 "group": "tmt",
@@ -3304,7 +3679,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 104,
+                    "neutrons": 163,
+                    "protons": 104
+                }
             },
             {
                 "group": "tmt",
@@ -3337,7 +3717,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 105,
+                    "neutrons": 163,
+                    "protons": 105
+                }
             },
             {
                 "group": "tmt",
@@ -3370,7 +3755,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 106,
+                    "neutrons": 163,
+                    "protons": 106
+                }
             },
             {
                 "group": "tmt",
@@ -3403,7 +3793,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 107,
+                    "neutrons": 165,
+                    "protons": 107
+                }
             },
             {
                 "group": "tmt",
@@ -3436,7 +3831,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 108,
+                    "neutrons": 169,
+                    "protons": 108
+                }
             },
             {
                 "group": "tmt",
@@ -3469,7 +3869,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 109,
+                    "neutrons": 169,
+                    "protons": 109
+                }
             },
             {
                 "group": "tmt",
@@ -3502,7 +3907,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 110,
+                    "neutrons": 171,
+                    "protons": 110
+                }
             },
             {
                 "group": "tmt",
@@ -3535,7 +3945,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 111,
+                    "neutrons": 171,
+                    "protons": 111
+                }
             },
             {
                 "group": "tmt",
@@ -3568,7 +3983,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 112,
+                    "neutrons": 173,
+                    "protons": 112
+                }
             },
             {
                 "group": "pbm",
@@ -3601,7 +4021,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 113,
+                    "neutrons": 173,
+                    "protons": 113
+                }
             },
             {
                 "group": "pbm",
@@ -3634,7 +4059,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 114,
+                    "neutrons": 175,
+                    "protons": 114
+                }
             },
             {
                 "group": "pbm",
@@ -3667,7 +4097,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 115,
+                    "neutrons": 175,
+                    "protons": 115
+                }
             },
             {
                 "group": "pbm",
@@ -3700,7 +4135,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 116,
+                    "neutrons": 178,
+                    "protons": 116
+                }
             },
             {
                 "group": "hlg",
@@ -3733,7 +4173,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 117,
+                    "neutrons": 177,
+                    "protons": 117
+                }
             },
             {
                 "group": "gsn",
@@ -3766,7 +4211,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 118,
+                    "neutrons": 176,
+                    "protons": 118
+                }
             }
         ],
         [
@@ -3812,7 +4262,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 57,
+                    "neutrons": 82,
+                    "protons": 57
+                }
             },
             {
                 "group": "ltn",
@@ -3856,7 +4311,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-6
+                "abundance": 1.00E-6,
+                "atomicStructure": {
+                    "electrons": 58,
+                    "neutrons": 82,
+                    "protons": 58
+                }
             },
             {
                 "group": "ltn",
@@ -3900,7 +4360,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 59,
+                    "neutrons": 82,
+                    "protons": 59
+                }
             },
             {
                 "group": "ltn",
@@ -3944,7 +4409,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-6
+                "abundance": 1.00E-6,
+                "atomicStructure": {
+                    "electrons": 60,
+                    "neutrons": 82,
+                    "protons": 60
+                }
             },
             {
                 "group": "ltn",
@@ -3988,7 +4458,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 61,
+                    "neutrons": 84,
+                    "protons": 61
+                }
             },
             {
                 "group": "ltn",
@@ -4032,7 +4507,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-7
+                "abundance": 5.0E-7,
+                "atomicStructure": {
+                    "electrons": 62,
+                    "neutrons": 90,
+                    "protons": 62
+                }
             },
             {
                 "group": "ltn",
@@ -4076,7 +4556,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-8
+                "abundance": 5.0E-8,
+                "atomicStructure": {
+                    "electrons": 63,
+                    "neutrons": 90,
+                    "protons": 63
+                }
             },
             {
                 "group": "ltn",
@@ -4120,7 +4605,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 64,
+                    "neutrons": 94,
+                    "protons": 64
+                }
             },
             {
                 "group": "ltn",
@@ -4164,7 +4654,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-8
+                "abundance": 5.0E-8,
+                "atomicStructure": {
+                    "electrons": 65,
+                    "neutrons": 94,
+                    "protons": 65
+                }
             },
             {
                 "group": "ltn",
@@ -4208,7 +4703,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 66,
+                    "neutrons": 98,
+                    "protons": 66
+                }
             },
             {
                 "group": "ltn",
@@ -4252,7 +4752,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 5.0E-8
+                "abundance": 5.0E-8,
+                "atomicStructure": {
+                    "electrons": 67,
+                    "neutrons": 98,
+                    "protons": 67
+                }
             },
             {
                 "group": "ltn",
@@ -4296,7 +4801,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 68,
+                    "neutrons": 98,
+                    "protons": 68
+                }
             },
             {
                 "group": "ltn",
@@ -4340,7 +4850,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 1.00E-8
+                "abundance": 1.00E-8,
+                "atomicStructure": {
+                    "electrons": 69,
+                    "neutrons": 100,
+                    "protons": 69
+                }
             },
             {
                 "group": "ltn",
@@ -4384,7 +4899,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-7
+                "abundance": 2.0E-7,
+                "atomicStructure": {
+                    "electrons": 70,
+                    "neutrons": 104,
+                    "protons": 70
+                }
             }
         ],
         [
@@ -4431,7 +4951,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 89,
+                    "neutrons": 138,
+                    "protons": 89
+                }
             },
             {
                 "group": "act",
@@ -4476,7 +5001,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 4.0E-8
+                "abundance": 4.0E-8,
+                "atomicStructure": {
+                    "electrons": 90,
+                    "neutrons": 142,
+                    "protons": 90
+                }
             },
             {
                 "group": "act",
@@ -4521,7 +5051,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0.00
+                "abundance": 0.00,
+                "atomicStructure": {
+                    "electrons": 91,
+                    "neutrons": 140,
+                    "protons": 91
+                }
             },
             {
                 "group": "act",
@@ -4566,7 +5101,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 2.0E-8
+                "abundance": 2.0E-8,
+                "atomicStructure": {
+                    "electrons": 92,
+                    "neutrons": 146,
+                    "protons": 92
+                }
             },
             {
                 "group": "act",
@@ -4611,7 +5151,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 93,
+                    "neutrons": 144,
+                    "protons": 93
+                }
             },
             {
                 "group": "act",
@@ -4656,7 +5201,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 94,
+                    "neutrons": 150,
+                    "protons": 94
+                }
             },
             {
                 "group": "act",
@@ -4701,7 +5251,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 95,
+                    "neutrons": 148,
+                    "protons": 95
+                }
             },
             {
                 "group": "act",
@@ -4746,7 +5301,12 @@
                         "state_es": "gas"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 96,
+                    "neutrons": 151,
+                    "protons": 96
+                }
             },
             {
                 "group": "act",
@@ -4785,7 +5345,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 97,
+                    "neutrons": 150,
+                    "protons": 97
+                }
             },
             {
                 "group": "act",
@@ -4824,7 +5389,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 98,
+                    "neutrons": 153,
+                    "protons": 98
+                }
             },
             {
                 "group": "act",
@@ -4863,7 +5433,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 99,
+                    "neutrons": 153,
+                    "protons": 99
+                }
             },
             {
                 "group": "act",
@@ -4902,7 +5477,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 100,
+                    "neutrons": 157,
+                    "protons": 100
+                }
             },
             {
                 "group": "act",
@@ -4941,7 +5521,12 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 101,
+                    "neutrons": 157,
+                    "protons": 101
+                }
             },
             {
                 "group": "act",
@@ -4980,8 +5565,13 @@
                         "state_es": "desconocido"
                     }
                 ],
-                "abundance": 0
+                "abundance": 0,
+                "atomicStructure": {
+                    "electrons": 102,
+                    "neutrons": 157,
+                    "protons": 102
+                }
             }
-        ] 
+        ]
     ]
 }
