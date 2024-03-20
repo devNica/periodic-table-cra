@@ -1,8 +1,8 @@
-import './App.css';
-import Container from './components/container/Container';
-import ChemicalElementDetail from './components/elements/ChemicalElementDetail';
-import store from './redux/store';
-import { Provider } from 'react-redux';
+import './App.css'
+import Container from './components/container/Container'
+import ChemicalElementDetail from './components/elements/ChemicalElementDetail'
+import store from './redux/store'
+import { Provider } from 'react-redux'
 import { Route, Routes } from 'react-router-dom'
 
 function App() {

@@ -9,18 +9,18 @@ import Card from '../card/Card'
 const ChemicalElementDetail = () => {
     const { id } = useParams()
     const dispatch = useDispatch()
-    const element = useGetElement()
+    let element = useGetElement()
 
     useEffect(() => {
         dispatch(fetchElement(id))
     }, [dispatch, id])
 
-
     return (
 
         <div className="chemical-element">
-            <Card element={element}/>
-
+            {
+                element.length > 0 ?  <Card element={element} />: <></>
+            }
         </div>
     )
 }
